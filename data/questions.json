@@ -3,13 +3,13 @@
         "id": 1,
         "question": "Which among the following is the regulator for the insurance industry in India?",
         "options": [
-            "Insurance Authority of India",
-            "Insurance Regulatory and Development Authority of India",
+            "General Insurance Corporation of India",
             "Life Insurance Corporation of India",
-            "General Insurance Corporation of India"
+            "Insurance Regulatory and Development Authority of India",
+            "Insurance Authority of India"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ambitious_baba.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: ambitious_baba.pdf",
         "chartData": null,
         "previous": null,
         "next": 2
@@ -18,13 +18,13 @@
         "id": 2,
         "question": "Which among the following is a secondary burden of risk?",
         "options": [
+            "Hospitalisation costs as a result of heart attack",
             "Business interruption cost",
             "Goods damaged cost",
-            "Setting aside reserves as a provision for meeting potential losses in the future",
-            "Hospitalisation costs as a result of heart attack"
+            "Setting aside reserves as a provision for meeting potential losses in the future"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ambitious_baba.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: ambitious_baba.pdf",
         "chartData": null,
         "previous": 1,
         "next": 3
@@ -33,13 +33,13 @@
         "id": 3,
         "question": "Which among the following is a method of risk transfer?",
         "options": [
-            "Bank FD",
-            "Insurance",
             "Equity shares",
-            "Real estate"
+            "Bank FD",
+            "Real estate",
+            "Insurance"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ambitious_baba.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: ambitious_baba.pdf",
         "chartData": null,
         "previous": 2,
         "next": 4
@@ -48,13 +48,13 @@
         "id": 4,
         "question": "Which among the following scenarios warrants insurance?",
         "options": [
-            "The sole bread winner of a family might die untimely",
-            "A person may lose his wallet",
             "Stock prices may fall drastically",
-            "A house may lose value due to natural wear and tear"
+            "A house may lose value due to natural wear and tear",
+            "A person may lose his wallet",
+            "The sole bread winner of a family might die untimely"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ambitious_baba.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: ambitious_baba.pdf",
         "chartData": null,
         "previous": 3,
         "next": 5
@@ -63,13 +63,13 @@
         "id": 5,
         "question": "Which of the below insurance scheme is run by an insurer and not sponsored by the Government?",
         "options": [
-            "Employees State Insurance Corporation",
             "Crop Insurance Scheme",
             "Jan Arogya",
-            "All of the above"
+            "All of the above",
+            "Employees State Insurance Corporation"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ambitious_baba.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: ambitious_baba.pdf",
         "chartData": null,
         "previous": 4,
         "next": 6
@@ -78,13 +78,13 @@
         "id": 6,
         "question": "Risk transfer through risk pooling is called",
         "options": [
-            "Savings",
             "Investments",
-            "Insurance",
-            "Risk mitigation"
+            "Risk mitigation",
+            "Savings",
+            "Insurance"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ambitious_baba.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ambitious_baba.pdf",
         "chartData": null,
         "previous": 5,
         "next": 7
@@ -93,13 +93,13 @@
         "id": 7,
         "question": "The measures to reduce chances of occurrence of risk are known as",
         "options": [
-            "Risk retention",
             "Loss prevention",
-            "Risk transfer",
-            "Risk avoidance"
+            "Risk avoidance",
+            "Risk retention",
+            "Risk transfer"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ambitious_baba.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ambitious_baba.pdf",
         "chartData": null,
         "previous": 6,
         "next": 8
@@ -108,13 +108,13 @@
         "id": 8,
         "question": "By transferring risk to insurer, it becomes possible  .",
         "options": [
-            "To become careless about our assets",
             "To make money from insurance in the event of a loss",
             "To ignore the potential risks facing our assets",
+            "To become careless about our assets",
             "To enjoy peace of mind and plan one‟s business more effectively"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ambitious_baba.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ambitious_baba.pdf",
         "chartData": null,
         "previous": 7,
         "next": 9
@@ -123,13 +123,13 @@
         "id": 9,
         "question": "Origins of modern insurance business can be traced to",
         "options": [
-            "Bottomry",
+            "Malhotra Committee",
             "Lloyds",
             "Rhodes",
-            "Malhotra Committee"
+            "Bottomry"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ambitious_baba.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: ambitious_baba.pdf",
         "chartData": null,
         "previous": 8,
         "next": 10
@@ -138,13 +138,13 @@
         "id": 10,
         "question": "In insurance context „risk retention‟ indicates a situation where",
         "options": [
+            "One decides to bear the risk and its effects",
             "Possibility of loss or damage is not there",
             "Loss producing event has no value",
-            "Property is covered by insurance",
-            "One decides to bear the risk and its effects"
+            "Property is covered by insurance"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ambitious_baba.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: ambitious_baba.pdf",
         "chartData": null,
         "previous": 9,
         "next": 11
@@ -153,13 +153,13 @@
         "id": 11,
         "question": "Which of the following statements is true?",
         "options": [
-            "Insurance is a method of sharing the losses of a „few‟ by „many‟",
-            "Insurance is a method of transferring the risk of an individual to another individual",
             "Insurance is a method of sharing the losses of a „many‟ by a few",
-            "Insurance is a method of transferring the gains of a few to the many"
+            "Insurance is a method of transferring the gains of a few to the many",
+            "Insurance is a method of transferring the risk of an individual to another individual",
+            "Insurance is a method of sharing the losses of a „few‟ by „many‟"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ambitious_baba.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: ambitious_baba.pdf",
         "chartData": null,
         "previous": 10,
         "next": 12
@@ -168,13 +168,13 @@
         "id": 12,
         "question": "Why do insurers arrange for survey and inspection of the property before acceptance of a risk?",
         "options": [
-            "To assess the risk for rating purposes",
-            "To find out how the insured purchased the property",
             "To find out whether other insurers have also inspected the property",
-            "To find out whether neighbouring property also can be insured"
+            "To assess the risk for rating purposes",
+            "To find out whether neighbouring property also can be insured",
+            "To find out how the insured purchased the property"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ambitious_baba.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: ambitious_baba.pdf",
         "chartData": null,
         "previous": 11,
         "next": 13
@@ -184,8 +184,8 @@
         "question": "Which of the below option best describes the process of insurance?",
         "options": [
             "Sharing the losses of many by a few",
-            "Sharing the losses of few by many",
             "One sharing the losses of few",
+            "Sharing the losses of few by many",
             "Sharing of losses through subsidy"
         ],
         "correctIndex": 0,
@@ -199,9 +199,9 @@
         "question": "The sum assured under keyman insurance policy is generally linked to which of the following?",
         "options": [
             "Keyman income",
-            "Business profitability",
             "Business history",
-            "Inflation index"
+            "Inflation index",
+            "Business profitability"
         ],
         "correctIndex": 0,
         "explanation": "Correct Answer: A. Source: ambitious_baba.pdf",
@@ -214,9 +214,9 @@
         "question": "History of Insurance:",
         "options": [
             "The origins of modern commercial insurance business as practiced today",
-            "First life insurance company in the world was amicable society for a perpetual",
             "History of insurance in India:",
-            "The Insurance Act 1938 was the first legislation to regulate the conduct of"
+            "The Insurance Act 1938 was the first legislation to regulate the conduct of",
+            "First life insurance company in the world was amicable society for a perpetual"
         ],
         "correctIndex": 0,
         "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
@@ -228,13 +228,13 @@
         "id": 16,
         "question": "How insurance works:",
         "options": [
-            "Definition of Insurance: Insurance can be considered as a process by which",
-            "Insurer: Someone who determines the contribution that each individual must",
             "The chance of loss is called Risk. The cause of the risk event is known as Peril.",
+            "Insurer: Someone who determines the contribution that each individual must",
+            "Definition of Insurance: Insurance can be considered as a process by which",
             "The Pooling of Risk consists of collecting numerous individual contributions"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 15,
         "next": 17
@@ -244,8 +244,8 @@
         "question": "Risk Management Techniques:",
         "options": [
             "Risk avoidance: Controlling risk by avoiding loss situation.",
-            "Risk retention: Bearing the risk and its effects by oneself. Also known as Self",
             "Risk Reduction and control: Taking steps to lower the chance of",
+            "Risk retention: Bearing the risk and its effects by oneself. Also known as Self",
             "Risk  Financing: Risk  Transfer  is  an  alternative  to  the  risk  retention."
         ],
         "correctIndex": 0,
@@ -258,13 +258,13 @@
         "id": 18,
         "question": "This Act was passed “to provide for better protection of the interest of consumers and  to  make  provision  for  the  establishment  of  consumer  councils  and  other authorities for the settlement of consumer’s disputes”.",
         "options": [
-            "“Service” means service of any description which is made available to",
             "“Consumer” means any person who Buys any goods for a consideration",
             "“Defect” means any fault, imperfection, shortcoming inadequacy in the",
+            "“Service” means service of any description which is made available to",
             "“Complaint” means any allegation in writing made by a complainant that:"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 17,
         "next": 19
@@ -273,13 +273,13 @@
         "id": 19,
         "question": "Rules governing licensing of insurance agents Rules  relating  to  issuance  and  renewal  of  licenses  to  insurance  agents  and  the procedures for obtaining the license are stated in the Insurance Act and regulations, summarized below:",
         "options": [
-            "Qualifications of the applicant",
-            "Disqualifications of the applicant",
             "Practical training",
-            "Examination: The   applicant   shall   have   passed   the   pre-recruitment"
+            "Examination: The   applicant   shall   have   passed   the   pre-recruitment",
+            "Disqualifications of the applicant",
+            "Qualifications of the applicant"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 18,
         "next": 20
@@ -289,9 +289,9 @@
         "question": "The elements of a valid contract are:",
         "options": [
             "Offer and acceptance",
+            "Free consent",
             "Consideration",
-            "Agreement between the parties",
-            "Free consent"
+            "Agreement between the parties"
         ],
         "correctIndex": 0,
         "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
@@ -303,13 +303,13 @@
         "id": 21,
         "question": "Proximate Cause",
         "options": [
-            "Proximate cause is a key principle of insurance and is concerned with how",
             "Under this rule, the insurer looks for the predominant cause which sets",
+            "Proximate cause is a key principle of insurance and is concerned with how",
             "Other  causes  may  be  classified  as  remote  causes,  which  are  separate",
             "Proximate cause is defined as the active and efficient cause that sets in"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 20,
         "next": 22
@@ -319,9 +319,9 @@
         "question": "The Asset-Human Life Value(HLV)",
         "options": [
             "HLV Concept devised around seventy years ago by Prof. Hubener.",
+            "HLV helps to determine how much insurance one should have for full protection",
             "HLV concept considers human life as kind of property or asset that earns an income.",
-            "HLV measures the value of human life based on individual’s expected net",
-            "HLV helps to determine how much insurance one should have for full protection"
+            "HLV measures the value of human life based on individual’s expected net"
         ],
         "correctIndex": 0,
         "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
@@ -333,13 +333,13 @@
         "id": 23,
         "question": "Difference between General & Life Insurance",
         "options": [
-            "General insurance is usually contracts of indemnity except personal Accident.",
             "Indemnity means exact amount of loss that has occurred and pays compensation",
+            "In General insurance contracts, the risk event protected against is uncertain",
             "Assurance contracts mean amount of benefit to be paid in the event of death has",
-            "In General insurance contracts, the risk event protected against is uncertain"
+            "General insurance is usually contracts of indemnity except personal Accident."
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 22,
         "next": 24
@@ -348,13 +348,13 @@
         "id": 24,
         "question": "Level Premium",
         "options": [
-            "Level premium is fixed that does not increases with age but remains constant the",
             "Premiums collected in early years would be more than the amount needed to",
             "The Level premium is an average of both.",
+            "Level premium is fixed that does not increases with age but remains constant the",
             "The excess premium of earlier ages compensate for the deficit of premiums in later ages."
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 23,
         "next": 25
@@ -363,13 +363,13 @@
         "id": 25,
         "question": "The life insurance Contract",
         "options": [
+            "Life insurance contracts involve both risk and saving element.",
             "The Final aspect of life insurance is the contract.",
-            "Sum Assured is contractually guaranteed which make life insurance a vehicle of financial",
             "Life insurance is subject to stringent regulation and strict supervision.",
-            "Life insurance contracts involve both risk and saving element."
+            "Sum Assured is contractually guaranteed which make life insurance a vehicle of financial"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 24,
         "next": 26
@@ -378,13 +378,13 @@
         "id": 26,
         "question": "Advantage:",
         "options": [
-            "It  has  historically  proved  to  be  a  safe  and  secure  investment.  Its  cash  values",
             "Regularity of premium payments calls for compulsory planning of one’s savings",
             "Insurer takes care of investment management and frees the individual of this",
+            "It  has  historically  proved  to  be  a  safe  and  secure  investment.  Its  cash  values",
             "It provides liquidity. The insured can take a loan on or surrender the policy and thus"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 25,
         "next": 27
@@ -395,8 +395,8 @@
         "options": [
             "Financial planning is a process of identifying one’s life’s goals, translating these",
             "Financial planning is a process through which one can chart a roadmap to meet",
-            "Financial planning is taking action to turn one’s goals and desires into reality.",
-            "Financial planning takes into  account  one’s current  and future  needs, one’s"
+            "Financial planning takes into  account  one’s current  and future  needs, one’s",
+            "Financial planning is taking action to turn one’s goals and desires into reality."
         ],
         "correctIndex": 0,
         "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
@@ -408,13 +408,13 @@
         "id": 28,
         "question": "Financial planning Elements of financial planning include:",
         "options": [
-            "Investing - allocating assets based on one’s risk taking appetite,",
             "Risk management,",
-            "Retirement planning,",
-            "Tax and estate planning, and"
+            "Investing - allocating assets based on one’s risk taking appetite,",
+            "Tax and estate planning, and",
+            "Retirement planning,"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 27,
         "next": 29
@@ -423,13 +423,13 @@
         "id": 29,
         "question": "Term insurance plans",
         "options": [
-            "Term insurance is valid only during a certain time period that has been specified in the",
-            "All premiums received under such a policy may be treated as earned towards the",
             "Purpose: Death benefit to nominee in case unfortunate death of the life insured.",
-            "Term insurance can be provided as rider also."
+            "Term insurance is valid only during a certain time period that has been specified in the",
+            "Term insurance can be provided as rider also.",
+            "All premiums received under such a policy may be treated as earned towards the"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 28,
         "next": 30
@@ -438,13 +438,13 @@
         "id": 30,
         "question": "IRDA’s new guidelines for traditional products",
         "options": [
-            "New traditional products will have a higher death cover.",
             "The minimum death benefit in case of traditional plan is at least the amount",
-            "In addition to the sum assured, the bonus / additional benefits as specified in",
-            "These plans would continue to come in two variants, participating and nonparticipating"
+            "These plans would continue to come in two variants, participating and nonparticipating",
+            "New traditional products will have a higher death cover.",
+            "In addition to the sum assured, the bonus / additional benefits as specified in"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 29,
         "next": 31
@@ -453,13 +453,13 @@
         "id": 31,
         "question": "Non Traditional Life Insurance Product - Purpose and Need",
         "options": [
-            "One of the principal purposes of saving and investing is to achieve inter-temporal",
-            "Inter-temporal allocation means allocation across time.",
             "The term effective here implies that sufficient funds are available to successfully",
-            "Efficient allocation implies a faster rate of accumulation and more funds available in"
+            "One of the principal purposes of saving and investing is to achieve inter-temporal",
+            "Efficient allocation implies a faster rate of accumulation and more funds available in",
+            "Inter-temporal allocation means allocation across time."
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 30,
         "next": 32
@@ -469,8 +469,8 @@
         "question": "Limitations of Traditional Products",
         "options": [
             "Cash value component: the savings or cash value component in such policies",
-            "Rate of return: the value of the benefits under “With Profit policies” would be",
             "Surrender  value:  The  cash  and  surrender  values  under  traditional  contracts",
+            "Rate of return: the value of the benefits under “With Profit policies” would be",
             "Yield: the yields on these policies may not be as high as can be obtained from more"
         ],
         "correctIndex": 0,
@@ -483,13 +483,13 @@
         "id": 33,
         "question": "Shift occurred in the product profiles of Life Insurers",
         "options": [
-            "Unbundling: This  trend  involved  separation  of  the  protection  and  savings",
             "Investment Linkage: The second trend was the shift towards investment linked",
             "Transparency: Unbundling also ushered greater visibility in the rate of return",
+            "Unbundling: This  trend  involved  separation  of  the  protection  and  savings",
             "Non-standard Products: The fourth major trend has been a shift from rigid to"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 32,
         "next": 34
@@ -513,13 +513,13 @@
         "id": 35,
         "question": "Variable Life Insurance Plan",
         "options": [
-            "Variable life insurance is a kind of “Whole Life” policy where the death benefit",
-            "The policy thus provides no guarantees with respect to either the interest rate or",
+            "A traditional cash value policy has a face amount that remains level throughout the",
             "Theoretically the cash value can go down to zero, in which case the policy would",
-            "A traditional cash value policy has a face amount that remains level throughout the"
+            "Variable life insurance is a kind of “Whole Life” policy where the death benefit",
+            "The policy thus provides no guarantees with respect to either the interest rate or"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 34,
         "next": 36
@@ -530,8 +530,8 @@
         "options": [
             "Unit  linked  plans  were  introduced  in  UK,  in  a  situation  of  substantial",
             "A need was felt for having both greater investment in equities and also",
-            "The benefits under these contracts are wholly or partially determined by the",
-            "Unit  linked  policies  thus  provide  the  means  for  directly  and  immediately"
+            "Unit  linked  policies  thus  provide  the  means  for  directly  and  immediately",
+            "The benefits under these contracts are wholly or partially determined by the"
         ],
         "correctIndex": 0,
         "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
@@ -543,13 +543,13 @@
         "id": 37,
         "question": "Extra charges:",
         "options": [
-            "“Standard Lives” are individuals who  are not  subject  to  any significant",
             "Extra charges are levied on person who are not considered as standard",
             "Extra charges are levied imposed to those who are engaged in hazardous",
+            "“Standard Lives” are individuals who  are not  subject  to  any significant",
             "Extra charges are also taken for extra benefits added to the policy. E.g."
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 36,
         "next": 38
@@ -558,13 +558,13 @@
         "id": 38,
         "question": "Determination of the Premium: Determination of premium is done by actuary in case of traditional policies are as follows:",
         "options": [
-            "Mortality",
-            "Interest",
             "Expenses of management",
-            "Reserves"
+            "Interest",
+            "Reserves",
+            "Mortality"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 37,
         "next": 39
@@ -573,13 +573,13 @@
         "id": 39,
         "question": "Dividends may be used in any of the four forms:",
         "options": [
+            "Dividends may be allowed to accumulate, with interest, to the credit of",
             "Dividends in cash.",
             "Dividends adjustment to, and reduction in future premiums",
-            "Dividends to purchase of non-forfeitable paid up additions",
-            "Dividends may be allowed to accumulate, with interest, to the credit of"
+            "Dividends to purchase of non-forfeitable paid up additions"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 38,
         "next": 40
@@ -589,9 +589,9 @@
         "question": "Age Proof:",
         "options": [
             "Age is one of the factors that insurer use to determine the risk profile of",
-            "Age proofs can be classified as standard age proof documents and",
+            "Non-standard age proofs are:",
             "Standard age proofs are:",
-            "Non-standard age proofs are:"
+            "Age proofs can be classified as standard age proof documents and"
         ],
         "correctIndex": 0,
         "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
@@ -603,13 +603,13 @@
         "id": 41,
         "question": "For KYC, customers need to submit KYC to an agent with proposal form :",
         "options": [
-            "Photograph",
             "An age proof",
-            "An identity proof",
-            "An address proof; and"
+            "An address proof; and",
+            "Photograph",
+            "An identity proof"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 40,
         "next": 42
@@ -618,13 +618,13 @@
         "id": 42,
         "question": "Grace Period",
         "options": [
-            "The “Grace Period” clause grants the policyholder an additional period of",
             "The standard length of the grace period is one month or 31 days",
             "The provision enables a policy that would otherwise have lapsed for non-",
+            "The “Grace Period” clause grants the policyholder an additional period of",
             "The  premium  however  remains  due  and  if  the policyholder  dies  during"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 41,
         "next": 43
@@ -633,13 +633,13 @@
         "id": 43,
         "question": "Lapse and Reinstatement / Revival",
         "options": [
-            "Reinstatement is the process by  which a life insurance company puts back",
             "A revival of the policy cannot however be an unconditional right of the insured.",
-            "Revival is often more advantageous because buying a new policy would call",
-            "Policy revival measures: In general one can revive a lapsed policy if the"
+            "Reinstatement is the process by  which a life insurance company puts back",
+            "Policy revival measures: In general one can revive a lapsed policy if the",
+            "Revival is often more advantageous because buying a new policy would call"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 42,
         "next": 44
@@ -648,13 +648,13 @@
         "id": 44,
         "question": "Surrender values",
         "options": [
+            "Surrender Value arrived as a percentage of premiums paid is called Guaranteed",
             "Life insurers normally have a chart that lists the surrender values at",
-            "The actual amount of cash one gets in hand on surrender may be different",
             "Surrender Value is a percentage of paid-up value.",
-            "Surrender Value arrived as a percentage of premiums paid is called Guaranteed"
+            "The actual amount of cash one gets in hand on surrender may be different"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 43,
         "next": 45
@@ -664,9 +664,9 @@
         "question": "Policy loan",
         "options": [
             "The policy loan is usually limited to a percentage of the policy’s surrender value (say",
-            "A loan provides access to liquid funds while keeping the insurance alive",
             "A loan is what you would recommend to a client in need of urgent funds but",
-            "The loan is granted on the policy being kept as security, the policy has to be"
+            "The loan is granted on the policy being kept as security, the policy has to be",
+            "A loan provides access to liquid funds while keeping the insurance alive"
         ],
         "correctIndex": 0,
         "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
@@ -678,13 +678,13 @@
         "id": 46,
         "question": "Special policy provisions and endorsement",
         "options": [
+            "Alteration",
             "Nomination",
-            "Assignment",
             "Duplicate policy",
-            "Alteration"
+            "Assignment"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 45,
         "next": 47
@@ -693,13 +693,13 @@
         "id": 47,
         "question": "Underwriting Decisions:",
         "options": [
-            "Acceptance at ordinary rates (OR): most common decision",
             "Acceptance with an extra: most common way of dealing with the large",
             "Acceptance with a lien on the same sum assured",
-            "Acceptance with a restrictive clause: limits death benefit in the event"
+            "Acceptance with a restrictive clause: limits death benefit in the event",
+            "Acceptance at ordinary rates (OR): most common decision"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 46,
         "next": 48
@@ -708,13 +708,13 @@
         "id": 48,
         "question": "Examples of events triggering survival claims:",
         "options": [
-            "Maturity of the policy",
             "An installment payable upon reaching the milestone under a money-back policy",
+            "Maturity of the policy",
             "Critical illnesses covered under the policy as a rider benefit",
             "Surrender of the policy either by the policyholder or assignee"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 47,
         "next": 49
@@ -723,13 +723,13 @@
         "id": 49,
         "question": "Ascertaining whether a claim event has occurred",
         "options": [
-            "For  payment  of  a  survival  claim,  the  insurer  has  to  ascertain  that  the",
-            "Maturity claims and money-back installment claims are easily established",
+            "Critical  illness  claims  are  ascertained  based  on  the  medical  and  other",
             "Surrender  value  payments  are  different  from  other  claim  payments.",
-            "Critical  illness  claims  are  ascertained  based  on  the  medical  and  other"
+            "Maturity claims and money-back installment claims are easily established",
+            "For  payment  of  a  survival  claim,  the  insurer  has  to  ascertain  that  the"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 48,
         "next": 50
@@ -739,9 +739,9 @@
         "question": "Maturity Claim Payment:",
         "options": [
             "Participating  Plan: The  amount  payable  under  a  maturity  claim,  if",
-            "Return  of  Premium  (ROP)  Plan: In some cases premiums paid over",
             "Unit Linked Insurance Plan (ULIP): In case of ULIPs, the insurer pays",
-            "Money-back Plan: In case of money-back policy, the insurer pays the"
+            "Money-back Plan: In case of money-back policy, the insurer pays the",
+            "Return  of  Premium  (ROP)  Plan: In some cases premiums paid over"
         ],
         "correctIndex": 0,
         "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
@@ -753,13 +753,13 @@
         "id": 51,
         "question": "What is Health Insurance? World Health Organization (WHO): Health is a state of complete physical, mental and social wellbeing and not merely the absence of disease.",
         "options": [
-            "Determinants of Health:",
+            "Genetic Factors",
             "Lifestyle Factors",
             "Environmental Factors",
-            "Genetic Factors"
+            "Determinants of Health:"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 50,
         "next": 52
@@ -768,13 +768,13 @@
         "id": 52,
         "question": "Levels of Healthcare: Health care to be effective must be",
         "options": [
-            "Appropriate to the needs of the people",
             "Comprehensive",
             "Adequate",
+            "Appropriate to the needs of the people",
             "Easily Available"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 51,
         "next": 53
@@ -783,13 +783,13 @@
         "id": 53,
         "question": "Health Insurance Market",
         "options": [
-            "Infrastructure :",
             "Insurance providers: Insurance companies especially in the general",
+            "Other Important Organizations :",
             "Intermediaries: A number of people and organizations (Governed by",
-            "Other Important Organizations :"
+            "Infrastructure :"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 52,
         "next": 54
@@ -798,13 +798,13 @@
         "id": 54,
         "question": "Proposal Form:",
         "options": [
+            "Proposal form is to be filled in by the proposer.",
             "Document  is  required  for  the  purpose  of  bringing  understanding  and  clarity",
             "The first stage of the document is basically the proposal form.",
-            "Proposal form is to be filled in by the proposer.",
             "The principal of utmost good faith and the duty of disclosure of material"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 53,
         "next": 55
@@ -815,8 +815,8 @@
         "options": [
             "Premium is a consideration or amount paid by the insured to the insurer for",
             "Sec 64 VB of the Insurance Act of 1938 (a special feature of Non- Life",
-            "If an agent collects the premium from the insured on behalf of the insurer,",
-            "The risk will commence only from the date on which the premium has been paid in"
+            "The risk will commence only from the date on which the premium has been paid in",
+            "If an agent collects the premium from the insured on behalf of the insurer,"
         ],
         "correctIndex": 0,
         "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
@@ -828,13 +828,13 @@
         "id": 56,
         "question": "Policy Document",
         "options": [
-            "It is a formal document which is the evidence of the contract of insurance.",
-            "The document has to be stamped as per the provisions of the Indian Stamp Act,",
             "A Health insurance Policy should contain - Name and address of the insured,",
-            "Action  to  be  taken  by  the  insured  for  raising  of  claim,  obligations  of  the"
+            "The document has to be stamped as per the provisions of the Indian Stamp Act,",
+            "Action  to  be  taken  by  the  insured  for  raising  of  claim,  obligations  of  the",
+            "It is a formal document which is the evidence of the contract of insurance."
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 55,
         "next": 57
@@ -843,13 +843,13 @@
         "id": 57,
         "question": "Interpretation of Policies",
         "options": [
-            "The policy interpretation has to be well defined. If it is ambiguous, the courts",
-            "A written condition overrides an implied condition. A hand written or typed",
+            "Clauses in Italic words override ordinary printed wordings.",
             "If an endorsement contradicts the contract, the endorsement prevails.",
-            "Clauses in Italic words override ordinary printed wordings."
+            "The policy interpretation has to be well defined. If it is ambiguous, the courts",
+            "A written condition overrides an implied condition. A hand written or typed"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 56,
         "next": 58
@@ -858,13 +858,13 @@
         "id": 58,
         "question": "Anti- Money Laundering and Know Your Customer Guidelines.",
         "options": [
-            "Money  laundering  is  the  process  of converting  illegally  obtained  funds  into",
             "The legislation of Prevention of Money Laundering Act 2002 was enacted by",
-            "As per KYC guidelines, every customer needs to submit their address",
-            "Agents are required to collect the following documents:"
+            "Agents are required to collect the following documents:",
+            "Money  laundering  is  the  process  of converting  illegally  obtained  funds  into",
+            "As per KYC guidelines, every customer needs to submit their address"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 57,
         "next": 59
@@ -873,13 +873,13 @@
         "id": 59,
         "question": "Post  hospitalization  expenses  would  be  relevant  medical  expenses  incurred  during period up to the defined number of days (generally 60 days) after hospitalization and will be considered as part of claim.",
         "options": [
-            "Domiciliary hospitalization",
-            "Common  exclusions -Pre-existing  diseases  the  exclusion  is:  Any  pre-",
+            "Top-up covers",
             "Coverage options available",
-            "Top-up covers"
+            "Domiciliary hospitalization",
+            "Common  exclusions -Pre-existing  diseases  the  exclusion  is:  Any  pre-"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 58,
         "next": 60
@@ -888,13 +888,13 @@
         "id": 60,
         "question": "A  hospital  means  any  institution  established  for  in-patient  care  and  day  care treatment of sickness and / or injuries and which has been registered as a hospital with the local authorities, AND must comply with all minimum criteria as under: IRDAI Refresher Confidential",
         "options": [
+            "Has a fully equipped operation theatre of its own where surgical procedures",
             "Has at least 10 inpatient beds in those towns having a population of less",
-            "Has qualified nursing staff under its employment round the clock;",
             "Has qualified medical practitioner(s) in charge round the clock;",
-            "Has a fully equipped operation theatre of its own where surgical procedures"
+            "Has qualified nursing staff under its employment round the clock;"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 59,
         "next": 61
@@ -903,13 +903,13 @@
         "id": 61,
         "question": "Challenges in health insurance",
         "options": [
-            "Majority of the policies are for hospitalization indemnity where the subject",
-            "India presents very peculiar patterns of illnesses, approach to treatment and follow up.",
             "Health insurance can be purchased by an individual, a group such as a",
-            "Health insurance depends on the act of being hospitalized, to trigger a claim under the"
+            "Majority of the policies are for hospitalization indemnity where the subject",
+            "Health insurance depends on the act of being hospitalized, to trigger a claim under the",
+            "India presents very peculiar patterns of illnesses, approach to treatment and follow up."
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 60,
         "next": 62
@@ -918,13 +918,13 @@
         "id": 62,
         "question": "Discharge summary-As per IRDAI Standardization Guidelines the contents of a standard Discharge Summary are as follows:",
         "options": [
+            "Admission No",
             "Patient’s Name",
             "Telephone No / Mobile No",
-            "IPD No",
-            "Admission No"
+            "IPD No"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 61,
         "next": 63
@@ -933,13 +933,13 @@
         "id": 63,
         "question": "Claim form-Claim form is the formal and legal request for processing the claim and is submitted in original signed by the customer. The claim form has now been standardized by IRDAI and broadly consists of:",
         "options": [
-            "Details of the primary insured and the policy number under which the claim is made.",
             "Details of the insurance history",
             "Details of the insured person hospitalized.",
+            "Details of the primary insured and the policy number under which the claim is made.",
             "Details of the hospitalization such as hospital, room category, date and"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 62,
         "next": 64
@@ -948,13 +948,13 @@
         "id": 64,
         "question": "Documents contingent to specific claims-There are certain types of claims that require additional documents apart from what has been stated above. These are:",
         "options": [
-            "Accident claims, where FIR or Medico-legal certificate issued by the hospital to",
-            "Case indoor papers in case of complicated or high value claims. Indoor case paper",
             "Dialysis / Chemotherapy / Physiotherapy charts where applicable.",
+            "Case indoor papers in case of complicated or high value claims. Indoor case paper",
+            "Accident claims, where FIR or Medico-legal certificate issued by the hospital to",
             "Hospital registration certificate, where the compliance with the definition of hospital"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 63,
         "next": 65
@@ -964,9 +964,9 @@
         "question": "Post sale service of health insurance",
         "options": [
             "Once the proposal (and the premium) is accepted, the coverage commences.",
-            "If  a  TPA  is  to  be used  for  servicing  the  policy,  the  insurer  passes  on  the",
+            "The membership with the TPA is used for availing cashless facility as well as",
             "The TPA enrolls the members (while the proposer is the person taking the policy,",
-            "The membership with the TPA is used for availing cashless facility as well as"
+            "If  a  TPA  is  to  be used  for  servicing  the  policy,  the  insurer  passes  on  the"
         ],
         "correctIndex": 0,
         "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
@@ -978,13 +978,13 @@
         "id": 66,
         "question": "Objectives of third party administration (TPA)",
         "options": [
-            "To facilitate service to a customer of health insurance in all possible manners at the",
+            "To create functional expertise in handling health insurance claims and related services.",
             "To organise cashless treatment for the insured patient at network hospitals.",
-            "To provide fair and fast settlement of claims to the customers based on the claim",
-            "To create functional expertise in handling health insurance claims and related services."
+            "To facilitate service to a customer of health insurance in all possible manners at the",
+            "To provide fair and fast settlement of claims to the customers based on the claim"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 65,
         "next": 67
@@ -993,13 +993,13 @@
         "id": 67,
         "question": "Relationship between insurer and TPA- The relationship between an insurer and the TPA is contractual with a host of requirements and process steps built into the contract. IRDAI Health Insurance  Standardization guidelines now lay down guidelines and provide a set of suggested standard clauses for contract between TPA and insurance company, which are follows:",
         "options": [
-            "Provider networking services",
+            "Customer relationship and contact management",
             "Call centre services",
             "Cashless access services",
-            "Customer relationship and contact management"
+            "Provider networking services"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: ic-38-irdai-refresher-workbook.pdf",
         "chartData": null,
         "previous": 66,
         "next": 68
@@ -1009,9 +1009,9 @@
         "question": "Overseas travel insurance policy- The covers under the policy can be broadly divided into following sections. A specific product may cover all or few of the below mentioned benefits:",
         "options": [
             "Medical and sickness section,",
+            "Personal liability",
             "Repatriation and evacuation,",
-            "Personal accident cover",
-            "Personal liability"
+            "Personal accident cover"
         ],
         "correctIndex": 0,
         "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
@@ -1039,9 +1039,9 @@
         "question": "Claims management for cashless medical cases",
         "options": [
             "Claim notification",
+            "Payment process steps",
             "Case management steps",
-            "Claims processing Steps",
-            "Payment process steps"
+            "Claims processing Steps"
         ],
         "correctIndex": 0,
         "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
@@ -1054,9 +1054,9 @@
         "question": "new guidelines for traditional products",
         "options": [
             "New traditional products will have a higher death cover.",
+            "These plans would continue to come intwo variants, participating and nonparticipating",
             "Theminimum death benefitin case of traditional plan is at least the amount",
-            "In addition to the sum assured, the bonus / additional benefits as specified in",
-            "These plans would continue to come intwo variants, participating and nonparticipating"
+            "In addition to the sum assured, the bonus / additional benefits as specified in"
         ],
         "correctIndex": 0,
         "explanation": "Correct Answer: A. Source: ic38-irda-fresh.pdf",
@@ -1068,13 +1068,13 @@
         "id": 72,
         "question": "1 65 66 4 67 68 69 70 71",
         "options": [
-            "72",
+            "75",
             "73",
-            "74",
-            "75"
+            "72",
+            "74"
         ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 0,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "chartData": null,
         "previous": 71,
         "next": 73
@@ -1083,13 +1083,13 @@
         "id": 73,
         "question": "1 80 81 82 83",
         "options": [
-            "84",
             "85",
-            "86",
-            "87"
+            "87",
+            "84",
+            "86"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 0,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "chartData": null,
         "previous": 72,
         "next": 74
@@ -1098,8 +1098,8 @@
         "id": 74,
         "question": "4 106 107 108 109",
         "options": [
-            "110",
             "111",
+            "110",
             "112",
             "113"
         ],
@@ -1113,13 +1113,13 @@
         "id": 75,
         "question": "241 3 242 1 243 244 245 246",
         "options": [
-            "247",
             "248",
             "249",
+            "247",
             "250"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 0,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "chartData": null,
         "previous": 74,
         "next": 76
@@ -1128,13 +1128,13 @@
         "id": 76,
         "question": "3 279 280 3",
         "options": [
-            "281",
-            "282",
             "283",
-            "284"
+            "284",
+            "281",
+            "282"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "chartData": null,
         "previous": 75,
         "next": null

@@ -231,7 +231,20 @@ async function processAll() {
 
         seenQuestions.add(qKey);
 
-        // 3. Ensure Explanation
+        // 3. Shuffle Options
+        // Store the correct option text
+        const correctOptionText = q.options[q.correctIndex];
+
+        // Shuffle the options array
+        for (let i = q.options.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [q.options[i], q.options[j]] = [q.options[j], q.options[i]];
+        }
+
+        // Find the new index of the correct option
+        q.correctIndex = q.options.indexOf(correctOptionText);
+
+        // 4. Ensure Explanation
         if (!q.explanation || q.explanation.startsWith("Source:")) {
             q.explanation = `Correct Answer: ${String.fromCharCode(65 + q.correctIndex)}. ${q.explanation}`;
         }
