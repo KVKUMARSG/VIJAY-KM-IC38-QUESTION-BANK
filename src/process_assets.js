@@ -48,127 +48,136 @@ async function extractTextFromDocx(filePath) {
     }
 }
 
-function parseQuestions(text, sourceName) {
-    const lines = text.split('\n').map(l => l.trim()).filter(l => l);
+function parseQuestions(text, source) {
     const questions = [];
 
-    // State for standard/roman parsing
-    let currentQuestion = null;
-    let currentPattern = null;
+    // Pattern 1: Block Format (ID on one line, Question, Options, Answer)
+    // This is common in "Life-Question Bank"
+    if (source.includes('Life-Question Bank')) {
+        const lines = text.split('\n').map(l => l.trim()).filter(l => l);
+        let i = 0;
+        while (i < lines.length) {
+            // Look for a number (ID)
+            if (/^\d+$/.test(lines[i])) {
+                const id = parseInt(lines[i]);
+                i++;
 
-    // State for block parsing
-    let blockBuffer = [];
+                let blockLines = [];
+                // Collect lines until we hit options or next ID
+                // The block ends when we see the next ID or end of file
+                while (i < lines.length && !/^\d+$/.test(lines[i])) {
+                    blockLines.push(lines[i]);
+                    i++;
+                }
 
-    for (let i = 0; i < lines.length; i++) {
-        let line = lines[i];
+                // Process block
+                // Expectation: Question lines... Option lines... Answer digit
+                if (blockLines.length >= 2) {
+                    const lastLine = blockLines[blockLines.length - 1];
+                    const ansMatch = lastLine.match(/(\d)$/);
+                    if (ansMatch) {
+                        const correctIndex = parseInt(ansMatch[1]) - 1;
+                        // Remove answer from last line
+                        blockLines[blockLines.length - 1] = lastLine.replace(/(\d)$/, '').trim();
 
-        // --- BLOCK PARSING LOGIC (Specific to Life-Question Bank style) ---
-        if (line.match(PATTERNS.block.start)) {
-            if (!currentQuestion && sourceName.includes("Life-Question")) {
-                if (line.match(/^[1-4]$/)) {
-                    // Potential answer found.
-                    if (blockBuffer.length >= 5) {
-                        const ansIndex = parseInt(line) - 1; // 0-3
-                        const opt4 = blockBuffer.pop();
-                        const opt3 = blockBuffer.pop();
-                        const opt2 = blockBuffer.pop();
-                        const opt1 = blockBuffer.pop();
-                        const questionText = blockBuffer.join(' ');
+                        // Heuristic: Split by '?' to separate question and options
+                        const fullText = blockLines.join(' ');
+                        let qText = "";
+                        let optsText = "";
 
-                        const idMatch = questionText.match(/^(\d+)\s+(.+)/);
-                        const finalQ = idMatch ? idMatch[2] : questionText;
+                        const qSplit = fullText.split('?');
+                        if (qSplit.length >= 2) {
+                            qText = qSplit[0] + '?';
+                            optsText = qSplit.slice(1).join('?').trim();
+                        } else {
+                            // No '?' found. Assume the whole text needs splitting.
+                            optsText = fullText;
+                        }
 
-                        questions.push({
-                            id: questions.length + 1,
-                            question: finalQ,
-                            options: [opt1, opt2, opt3, opt4],
-                            correctIndex: ansIndex,
-                            explanation: `Source: ${sourceName}`,
-                            chartData: null
-                        });
-                        blockBuffer = [];
-                        continue;
+                        let opts = [];
+
+                        // Strategy A: Explicit Labels
+                        const labelMatch = optsText.match(/([A-Da-d1-4])[\.\)]/g);
+                        if (labelMatch && labelMatch.length >= 3) {
+                            const parts = optsText.split(/\s*(?:[A-Da-d1-4])[\.\)]\s*/).filter(p => p);
+                            if (qText) {
+                                if (parts.length >= 4) opts = parts;
+                            } else {
+                                if (parts.length >= 5) {
+                                    qText = parts[0];
+                                    opts = parts.slice(1);
+                                }
+                            }
+                        }
+
+                        // Strategy B: Aggressive Split
+                        if (opts.length < 4) {
+                            const parts = optsText.split(/(?<=[a-z0-9\)])\s*(?=[A-Z])/).map(o => o.trim());
+
+                            if (qText) {
+                                opts = parts;
+                            } else {
+                                if (parts.length >= 5) {
+                                    qText = parts[0];
+                                    opts = parts.slice(1);
+                                }
+                            }
+                        }
+
+                        // Merge strategy for over-splitting
+                        while (opts.length > 4) {
+                            let merged = false;
+                            for (let i = 0; i < opts.length - 1; i++) {
+                                if (opts[i].match(/(of|the|and|a|an|with|to|in|on|at|by|for)$/i)) {
+                                    opts[i] = opts[i] + " " + opts[i + 1];
+                                    opts.splice(i + 1, 1);
+                                    merged = true;
+                                    break;
+                                }
+                            }
+
+                            if (!merged) {
+                                let shortestIdx = 0;
+                                for (let i = 1; i < opts.length; i++) {
+                                    if (opts[i].length < opts[shortestIdx].length) shortestIdx = i;
+                                }
+
+                                if (shortestIdx === 0) {
+                                    opts[0] = opts[0] + " " + opts[1];
+                                    opts.splice(1, 1);
+                                } else if (shortestIdx === opts.length - 1) {
+                                    opts[shortestIdx - 1] = opts[shortestIdx - 1] + " " + opts[shortestIdx];
+                                    opts.splice(shortestIdx, 1);
+                                } else {
+                                    if (opts[shortestIdx - 1].length < opts[shortestIdx + 1].length) {
+                                        opts[shortestIdx - 1] = opts[shortestIdx - 1] + " " + opts[shortestIdx];
+                                        opts.splice(shortestIdx, 1);
+                                    } else {
+                                        opts[shortestIdx] = opts[shortestIdx] + " " + opts[shortestIdx + 1];
+                                        opts.splice(shortestIdx + 1, 1);
+                                    }
+                                }
+                            }
+                        }
+
+                        // Debug logging removed
+
+                        if (qText && opts.length === 4) {
+                            questions.push({
+                                id: id,
+                                question: qText,
+                                options: opts,
+                                correctIndex: correctIndex,
+                                explanation: `Source: ${path.basename(source)}`
+                            });
+                        }
                     }
                 }
-                blockBuffer.push(line);
-                continue;
+                continue; // Continue outer loop (i is already at next ID)
             }
+            i++;
         }
-        // --- END BLOCK PARSING ---
-
-        // Standard Parsing
-        let qMatch = null;
-        let detectedPattern = null;
-
-        // Check Standard
-        if (!currentQuestion || currentPattern === 'standard') {
-            const m = line.match(PATTERNS.standard.question);
-            if (m) { qMatch = m; detectedPattern = 'standard'; }
-        }
-        // Check Roman
-        if (!qMatch && (!currentQuestion || currentPattern === 'roman')) {
-            const m = line.match(PATTERNS.roman.question);
-            if (m) { qMatch = m; detectedPattern = 'roman'; }
-        }
-
-        if (qMatch) {
-            // Save previous
-            if (currentQuestion && currentQuestion.options.length >= 2) {
-                if (currentQuestion.correctIndex === -1) currentQuestion.correctIndex = 0;
-                questions.push(currentQuestion);
-            }
-
-            currentQuestion = {
-                id: questions.length + 1,
-                question: qMatch[2],
-                options: [],
-                correctIndex: -1,
-                explanation: `Source: ${sourceName}`,
-                chartData: null
-            };
-            currentPattern = detectedPattern;
-            continue;
-        }
-
-        if (!currentQuestion) continue;
-
-        // Try to match options
-        let optMatch = null;
-        if (currentPattern === 'standard') {
-            optMatch = line.match(PATTERNS.standard.option);
-        } else if (currentPattern === 'roman') {
-            optMatch = line.match(PATTERNS.roman.option);
-        }
-
-        if (optMatch) {
-            currentQuestion.options.push(optMatch[2]);
-            continue;
-        }
-
-        // Try to match Answer
-        let ansMatch = null;
-        if (currentPattern === 'standard') {
-            ansMatch = line.match(PATTERNS.standard.answer);
-            if (ansMatch) {
-                const ansStr = ansMatch[1].toLowerCase();
-                if (ansStr >= '1' && ansStr <= '4') {
-                    currentQuestion.correctIndex = parseInt(ansStr) - 1;
-                } else {
-                    currentQuestion.correctIndex = ansStr.charCodeAt(0) - 97;
-                }
-            }
-        }
-
-        // Append text if not an option/answer
-        if (currentQuestion.options.length === 0 && !line.match(/^(Page|Chapter|Section|ambitiousbaba)/i)) {
-            currentQuestion.question += " " + line;
-        }
-    }
-
-    // Push last
-    if (currentQuestion && currentQuestion.options.length >= 2) {
-        if (currentQuestion.correctIndex === -1) currentQuestion.correctIndex = 0;
-        questions.push(currentQuestion);
+        return questions;
     }
 
     return questions;
@@ -181,6 +190,16 @@ async function processAll() {
     console.log(`Found ${files.length} files in assets.`);
 
     for (const file of files) {
+        // Exclude known bad files
+        if (file.includes('ic38-irda-fresh.pdf') ||
+            file.includes('ic-38-irdai-refresher-workbook.pdf') ||
+            file.includes('IRDA_EXAM_01.docx') ||
+            file.includes('mock_01') ||
+            file.includes('ambitious_baba.pdf')) {
+            console.log(`Skipping excluded file: ${file}`);
+            continue;
+        }
+
         const filePath = path.join(ASSETS_DIR, file);
         let text = '';
 
@@ -210,15 +229,14 @@ async function processAll() {
     for (const q of allQuestions) {
         // 1. Basic Validation
         if (!q.question || q.question.length < 10) {
-            // console.log(`Skipped (Too Short): ${q.question}`);
             continue;
         }
         if (q.options.length !== 4) {
-            console.log(`Skipped (Options != 4): ID ${q.id} from ${q.explanation} - Has ${q.options.length} options`);
+            console.log(`Skipped (Options != 4): ID ${q.id} - Has ${q.options.length} options`);
             continue;
         }
         if (q.correctIndex < 0 || q.correctIndex >= q.options.length) {
-            console.log(`Skipped (Invalid Index): ID ${q.id} from ${q.explanation} - Index ${q.correctIndex}`);
+            console.log(`Skipped (Invalid Index): ID ${q.id} - Index ${q.correctIndex}`);
             continue;
         }
 
@@ -232,16 +250,11 @@ async function processAll() {
         seenQuestions.add(qKey);
 
         // 3. Shuffle Options
-        // Store the correct option text
         const correctOptionText = q.options[q.correctIndex];
-
-        // Shuffle the options array
         for (let i = q.options.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
             [q.options[i], q.options[j]] = [q.options[j], q.options[i]];
         }
-
-        // Find the new index of the correct option
         q.correctIndex = q.options.indexOf(correctOptionText);
 
         // 4. Ensure Explanation

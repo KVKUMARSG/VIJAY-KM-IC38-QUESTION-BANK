@@ -19,11 +19,12 @@ async function debugFile(filename) {
         text = result.value;
     }
 
-    console.log(text.substring(0, 5000)); // Print first 5000 chars
+    console.log(text.substring(text.length - 2000)); // Print last 2000 chars
 }
 
 async function runDebug() {
-    await debugFile('IRDA_EXAM_01.docx');
+    console.log("--- DEBUGGING ic-38-irdai-refresher-workbook.pdf ---");
+    await debugFile('ic-38-irdai-refresher-workbook.pdf');
 }
 
 runDebug();

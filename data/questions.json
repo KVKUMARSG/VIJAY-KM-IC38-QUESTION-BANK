@@ -1,1142 +1,1010 @@
 [
     {
         "id": 1,
-        "question": "Which among the following is the regulator for the insurance industry in India?",
+        "question": "Life Insurance Corporation of India(LIC) was set up under which of the following acts?",
         "options": [
-            "General Insurance Corporation of India",
-            "Life Insurance Corporation of India",
-            "Insurance Regulatory and Development Authority of India",
-            "Insurance Authority of India"
+            "Life Insurance Corporation Act, 1956",
+            "Indian Insurance Companies Act, 1928",
+            "The Insurance Act, 1938",
+            "Life Insurance Companies Act, 1912"
         ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: ambitious_baba.pdf",
-        "chartData": null,
+        "correctIndex": 0,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": null,
         "next": 2
     },
     {
         "id": 2,
-        "question": "Which among the following is a secondary burden of risk?",
+        "question": "Which priciple of insurance implies if the same property is insured with more than one insurance company",
         "options": [
-            "Hospitalisation costs as a result of heart attack",
-            "Business interruption cost",
-            "Goods damaged cost",
-            "Setting aside reserves as a provision for meeting potential losses in the future"
+            "Subrogation",
+            "Contribution",
+            "Uberrima fides",
+            "Proximate cause"
         ],
         "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: ambitious_baba.pdf",
-        "chartData": null,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 1,
         "next": 3
     },
     {
         "id": 3,
-        "question": "Which among the following is a method of risk transfer?",
+        "question": "____________________is a corollary principle of",
         "options": [
-            "Equity shares",
-            "Bank FD",
-            "Real estate",
-            "Insurance"
+            "Insurable Interest",
+            "Uberrima fides",
+            "Indemnity",
+            "Subrogation Proximate cause"
         ],
         "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: ambitious_baba.pdf",
-        "chartData": null,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 2,
         "next": 4
     },
     {
         "id": 4,
-        "question": "Which among the following scenarios warrants insurance?",
+        "question": "Expections stated under",
         "options": [
-            "Stock prices may fall drastically",
-            "A house may lose value due to natural wear and tear",
-            "A person may lose his wallet",
-            "The sole bread winner of a family might die untimely"
+            "Insurance cannot be sold on credit basis in India Accepting premiums in instalment in respect of Sickness",
+            "Insurance and Hospitalisation Insurance Schemes subject to certain conditions None of the above",
+            "Insurance, Group Personal Accident Insurance, Medical Benefits",
+            "Section 59 of the Insurance Rules 1939 for advance payment of premium. No risk to be assumed unless premium is received in advance"
         ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: ambitious_baba.pdf",
-        "chartData": null,
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 3,
         "next": 5
     },
     {
         "id": 5,
-        "question": "Which of the below insurance scheme is run by an insurer and not sponsored by the Government?",
+        "question": "Arbitrators appoint  ________________who presides the meeting. A President",
         "options": [
-            "Crop Insurance Scheme",
-            "Jan Arogya",
-            "All of the above",
-            "Employees State Insurance Corporation"
+            "An",
+            "Umpire",
+            "A Chairman",
+            "A Judge"
         ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: ambitious_baba.pdf",
-        "chartData": null,
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 4,
         "next": 6
     },
     {
         "id": 6,
-        "question": "Risk transfer through risk pooling is called",
+        "question": "Which of the below statement/statements is/are true with regard to a proposal form?",
         "options": [
-            "Investments",
-            "Risk mitigation",
-            "Savings",
-            "Insurance"
+            "CAll of them",
+            "A) The proposal form can be filled in by the proposer in written or electronic format. B)",
+            "The insurer can decide whether to accept or reject the proposal for insurance based on the information in proposal form. A & BA & COnly",
+            "The proposal form contains the details of imsurance cover, warranties, terms and conditions. C)"
         ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ambitious_baba.pdf",
-        "chartData": null,
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 5,
         "next": 7
     },
     {
         "id": 7,
-        "question": "The measures to reduce chances of occurrence of risk are known as",
+        "question": "Declaration of the proposer in the proposal form converts _____________________________of",
         "options": [
-            "Loss prevention",
-            "Risk avoidance",
-            "Risk retention",
-            "Risk transfer"
+            "Utmost Good Faith to __________________________ of Utmost",
+            "Duty, Common Law Principle Common Law",
+            "Principle, Contractual Duty Common Law Principle, Legal Duty",
+            "Good Faith. Legal Duty, Common Law Principle Contractual"
         ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ambitious_baba.pdf",
-        "chartData": null,
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 6,
         "next": 8
     },
     {
         "id": 8,
-        "question": "By transferring risk to insurer, it becomes possible  .",
+        "question": "Elements of Trust are",
         "options": [
-            "To make money from insurance in the event of a loss",
-            "To ignore the potential risks facing our assets",
-            "To become careless about our assets",
-            "To enjoy peace of mind and plan one‟s business more effectively"
+            "Attraction,",
+            "Presence A & BA, B & CA, C & DA, B & D",
+            "Belief,",
+            "Communication,"
         ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ambitious_baba.pdf",
-        "chartData": null,
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 7,
         "next": 9
     },
     {
         "id": 9,
-        "question": "Origins of modern insurance business can be traced to",
+        "question": "During which period, insurance policy can be returned and refund of premium obtained?",
         "options": [
-            "Malhotra Committee",
-            "Lloyds",
-            "Rhodes",
-            "Bottomry"
+            "Coverage period",
+            "Period Waiting",
+            "Free Look",
+            "Period Grace Period"
         ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: ambitious_baba.pdf",
-        "chartData": null,
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 8,
         "next": 10
     },
     {
         "id": 10,
-        "question": "In insurance context „risk retention‟ indicates a situation where",
+        "question": "The customer has choice to continue with same insurer or to switch to another insurance company in following kind of policies: Term",
         "options": [
-            "One decides to bear the risk and its effects",
-            "Possibility of loss or damage is not there",
-            "Loss producing event has no value",
-            "Property is covered by insurance"
+            "Motor Third Party Policy",
+            "Endowment Policy",
+            "Insurance Policy",
+            "Unit Linked Insurance Policy"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: ambitious_baba.pdf",
-        "chartData": null,
+        "correctIndex": 0,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": 9,
         "next": 11
     },
     {
         "id": 11,
-        "question": "Which of the following statements is true?",
+        "question": "Appeals against orders passed by",
         "options": [
-            "Insurance is a method of sharing the losses of a „many‟ by a few",
-            "Insurance is a method of transferring the gains of a few to the many",
-            "Insurance is a method of transferring the risk of an individual to another individual",
-            "Insurance is a method of sharing the losses of a „few‟ by „many‟"
+            "State Consumer Disputes Redressal",
+            "Court State Commission Civil",
+            "Court National Commission",
+            "Commission are accepted for hearing at ______________. High"
         ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: ambitious_baba.pdf",
-        "chartData": null,
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 10,
         "next": 12
     },
     {
         "id": 12,
-        "question": "Why do insurers arrange for survey and inspection of the property before acceptance of a risk?",
+        "question": "Which Consumer dispute redressal agency is established by the Central Government?",
         "options": [
-            "To find out whether other insurers have also inspected the property",
-            "To assess the risk for rating purposes",
-            "To find out whether neighbouring property also can be insured",
-            "To find out how the insured purchased the property"
+            "Commission Both",
+            "Commission District",
+            "District & State Commission",
+            "State Commission National"
         ],
         "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: ambitious_baba.pdf",
-        "chartData": null,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 11,
         "next": 13
     },
     {
         "id": 13,
-        "question": "Which of the below option best describes the process of insurance?",
+        "question": "A complaint can be filed with the",
         "options": [
-            "Sharing the losses of many by a few",
-            "One sharing the losses of few",
-            "Sharing the losses of few by many",
-            "Sharing of losses through subsidy"
+            "Agencies by- The advocate",
+            "Consumer Dispute Redressal",
+            "The Consumer or his authorised agent Only the consumer",
+            "The agent authorised by the consumer"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ambitious_baba.pdf",
-        "chartData": null,
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 12,
         "next": 14
     },
     {
         "id": 14,
-        "question": "The sum assured under keyman insurance policy is generally linked to which of the following?",
+        "question": "Whom can the aggrieved insurance agent appeal to in case of cancellation of appointment?",
         "options": [
-            "Keyman income",
-            "Business history",
-            "Inflation index",
-            "Business profitability"
+            "Designated",
+            "Official Appellate",
+            "Appellate Officer",
+            "Authority Appellate Official"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ambitious_baba.pdf",
-        "chartData": null,
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 13,
         "next": 15
     },
     {
         "id": 15,
-        "question": "History of Insurance:",
+        "question": "What as per the code of conduct mentioned in the",
         "options": [
-            "The origins of modern commercial insurance business as practiced today",
-            "History of insurance in India:",
-            "The Insurance Act 1938 was the first legislation to regulate the conduct of",
-            "First life insurance company in the world was amicable society for a perpetual"
+            "Issuing insurance advertisement",
+            "Inducing the prospect to omit a material fact in the proposal form",
+            "Soliciting or procuring insurance business without setting up a registered office",
+            "IRDAI (Appointment of Agents) Regulations, 2016, the insurance agents are prohibited from - Demand / receive share of benefit from insurer"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 14,
         "next": 16
     },
     {
         "id": 16,
-        "question": "How insurance works:",
+        "question": "Which of the following insurances does not cover personal risks?",
         "options": [
-            "The chance of loss is called Risk. The cause of the risk event is known as Peril.",
-            "Insurer: Someone who determines the contribution that each individual must",
-            "Definition of Insurance: Insurance can be considered as a process by which",
-            "The Pooling of Risk consists of collecting numerous individual contributions"
+            "Life Insurance",
+            "Insurance Fire Insurance",
+            "Motor Own Damage Insurance",
+            "Personal Accident"
         ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 15,
         "next": 17
     },
     {
         "id": 17,
-        "question": "Risk Management Techniques:",
+        "question": "Amounts set aside from current consumption without being earmarked for any specific purposes is termed as",
         "options": [
-            "Risk avoidance: Controlling risk by avoiding loss situation.",
-            "Risk Reduction and control: Taking steps to lower the chance of",
-            "Risk retention: Bearing the risk and its effects by oneself. Also known as Self",
-            "Risk  Financing: Risk  Transfer  is  an  alternative  to  the  risk  retention."
+            "Future Provision Wealth",
+            "Consumption Parting with Liquidity",
+            "Current",
+            "Accumulation"
         ],
         "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": 16,
         "next": 18
     },
     {
         "id": 18,
-        "question": "This Act was passed “to provide for better protection of the interest of consumers and  to  make  provision  for  the  establishment  of  consumer  councils  and  other authorities for the settlement of consumer’s disputes”.",
+        "question": "The term ______ refers to the process of evaluating each proposal for life insurance in terms of the degree of risk it represents and then deciding whether or not to grant insurance and on what terms",
         "options": [
-            "“Consumer” means any person who Buys any goods for a consideration",
-            "“Defect” means any fault, imperfection, shortcoming inadequacy in the",
-            "“Service” means service of any description which is made available to",
-            "“Complaint” means any allegation in writing made by a complainant that:"
+            "Claims Management",
+            "Reinsurance",
+            "Risk Management",
+            "Underwriting"
         ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 17,
         "next": 19
     },
     {
         "id": 19,
-        "question": "Rules governing licensing of insurance agents Rules  relating  to  issuance  and  renewal  of  licenses  to  insurance  agents  and  the procedures for obtaining the license are stated in the Insurance Act and regulations, summarized below:",
+        "question": "Which of the following is the most common way of dealing with sub-standard risks",
         "options": [
-            "Practical training",
-            "Examination: The   applicant   shall   have   passed   the   pre-recruitment",
-            "Disqualifications of the applicant",
-            "Qualifications of the applicant"
+            "Accepting the risk with a discount",
+            "Acceptance with an extra",
+            "Accepting the risk without any extra charges",
+            "Rejecting the risk"
         ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 18,
         "next": 20
     },
     {
         "id": 20,
-        "question": "The elements of a valid contract are:",
+        "question": "What is the significance of a person's blood pressure as an indicator of disease",
         "options": [
-            "Offer and acceptance",
-            "Free consent",
-            "Consideration",
-            "Agreement between the parties"
+            "It does not indicate any disease",
+            "It can indicate impairment of the endocrine system",
+            "High blood pressure can have serious health consequences",
+            "It can indicate malfunctioning of the urinary system"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 19,
         "next": 21
     },
     {
         "id": 21,
-        "question": "Proximate Cause",
+        "question": "Which of the following factors are mostly in the control of an individual for maintaining good health",
         "options": [
-            "Under this rule, the insurer looks for the predominant cause which sets",
-            "Proximate cause is a key principle of insurance and is concerned with how",
-            "Other  causes  may  be  classified  as  remote  causes,  which  are  separate",
-            "Proximate cause is defined as the active and efficient cause that sets in"
+            "Genetic factors",
+            "Environmental factors",
+            "Lifestyle factors",
+            "Social factors"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 20,
         "next": 22
     },
     {
         "id": 22,
-        "question": "The Asset-Human Life Value(HLV)",
+        "question": "Which diseases are spread due to bad hygiene and environmental sanitation",
         "options": [
-            "HLV Concept devised around seventy years ago by Prof. Hubener.",
-            "HLV helps to determine how much insurance one should have for full protection",
-            "HLV concept considers human life as kind of property or asset that earns an income.",
-            "HLV measures the value of human life based on individual’s expected net"
+            "AIDSHypertension and diabetes",
+            "Influenza and chickenpox",
+            "Cancer and",
+            "None of the above"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 21,
         "next": 23
     },
     {
         "id": 23,
-        "question": "Difference between General & Life Insurance",
+        "question": "Does a country's social and economic progress depend on the health of its people",
         "options": [
-            "Indemnity means exact amount of loss that has occurred and pays compensation",
-            "In General insurance contracts, the risk event protected against is uncertain",
-            "Assurance contracts mean amount of benefit to be paid in the event of death has",
-            "General insurance is usually contracts of indemnity except personal Accident."
+            "Yes, there is a direct relationship between the two",
+            "The relationship is uncertain",
+            "No, there is no relationship between the two",
+            "The relationship is indirect"
         ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 0,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": 22,
         "next": 24
     },
     {
         "id": 24,
-        "question": "Level Premium",
+        "question": "Which healthcare provider would",
         "options": [
-            "Premiums collected in early years would be more than the amount needed to",
-            "The Level premium is an average of both.",
-            "Level premium is fixed that does not increases with age but remains constant the",
-            "The excess premium of earlier ages compensate for the deficit of premiums in later ages."
+            "A specialist at a hospital",
+            "A dentist A pharmacist",
+            "Mr. Sagar most likely visit first if he is feeling sick",
+            "A primary healthcare provider"
         ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 0,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": 23,
         "next": 25
     },
     {
         "id": 25,
-        "question": "The life insurance Contract",
+        "question": "Which section of the",
         "options": [
-            "Life insurance contracts involve both risk and saving element.",
-            "The Final aspect of life insurance is the contract.",
-            "Life insurance is subject to stringent regulation and strict supervision.",
-            "Sum Assured is contractually guaranteed which make life insurance a vehicle of financial"
+            "Section 80 BSection 80",
+            "Health Insurance from taxable income",
+            "Income Tax Act allows individuals to deduct premiums paid towards",
+            "CSection 80 ESection 80 D"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 24,
         "next": 26
     },
     {
         "id": 26,
-        "question": "Advantage:",
+        "question": "Which of the following is not a type of private health care provider in",
         "options": [
-            "Regularity of premium payments calls for compulsory planning of one’s savings",
-            "Insurer takes care of investment management and frees the individual of this",
-            "It  has  historically  proved  to  be  a  safe  and  secure  investment.  Its  cash  values",
-            "It provides liquidity. The insured can take a loan on or surrender the policy and thus"
+            "Diagnostic laboratories",
+            "India Solo practitioners",
+            "Government clinics",
+            "Corporate hospitals"
         ],
         "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 25,
         "next": 27
     },
     {
         "id": 27,
-        "question": "What is financial planning?",
+        "question": "The following intermediary facilitates carrying out of pre-insurance medical examinations in connection with underwriting of the health insurance policies",
         "options": [
-            "Financial planning is a process of identifying one’s life’s goals, translating these",
-            "Financial planning is a process through which one can chart a roadmap to meet",
-            "Financial planning takes into  account  one’s current  and future  needs, one’s",
-            "Financial planning is taking action to turn one’s goals and desires into reality."
+            "Reinsurance Broker",
+            "Surveyor and Loss Assessor",
+            "Insurance Broker",
+            "Third Party Administrator"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 26,
         "next": 28
     },
     {
         "id": 28,
-        "question": "Financial planning Elements of financial planning include:",
+        "question": "What are the two broad categories of health insurance products",
         "options": [
-            "Risk management,",
-            "Investing - allocating assets based on one’s risk taking appetite,",
-            "Tax and estate planning, and",
-            "Retirement planning,"
+            "Indemnity covers and hospital cash (fixed benefit) covers",
+            "Dental covers and critical illness covers",
+            "Out-patient covers and travel covers",
+            "Home care covers and personal accident covers"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 0,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": 27,
         "next": 29
     },
     {
         "id": 29,
-        "question": "Term insurance plans",
+        "question": "Which category of health insurance products constitutes the bulk of the health insurance",
         "options": [
-            "Purpose: Death benefit to nominee in case unfortunate death of the life insured.",
-            "Term insurance is valid only during a certain time period that has been specified in the",
-            "Term insurance can be provided as rider also.",
-            "All premiums received under such a policy may be treated as earned towards the"
+            "Home care covers",
+            "Indemnity covers",
+            "Hospital cash (fixed benefit) covers",
+            "Personal accident covers"
         ],
         "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 28,
         "next": 30
     },
     {
         "id": 30,
-        "question": "IRDA’s new guidelines for traditional products",
+        "question": "Which of the following procedures are covered under the policy",
         "options": [
-            "The minimum death benefit in case of traditional plan is at least the amount",
-            "These plans would continue to come in two variants, participating and nonparticipating",
-            "New traditional products will have a higher death cover.",
-            "In addition to the sum assured, the bonus / additional benefits as specified in"
+            "Dental procedures",
+            "Eye surgeries",
+            "Cosmetic surgeries",
+            "None of the above"
         ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 29,
         "next": 31
     },
     {
         "id": 31,
-        "question": "Non Traditional Life Insurance Product - Purpose and Need",
+        "question": "What is a family floater policy",
         "options": [
-            "The term effective here implies that sufficient funds are available to successfully",
-            "One of the principal purposes of saving and investing is to achieve inter-temporal",
-            "Efficient allocation implies a faster rate of accumulation and more funds available in",
-            "Inter-temporal allocation means allocation across time."
+            "A policy that offers a single sum insured which floats over the entire family",
+            "None of the above",
+            "Only the dependent family members can be covered under this policy",
+            "Only the individual can be covered under this policy"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 0,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": 30,
         "next": 32
     },
     {
         "id": 32,
-        "question": "Limitations of Traditional Products",
+        "question": "In a family floater policy, how is the premium calculated",
         "options": [
-            "Cash value component: the savings or cash value component in such policies",
-            "Surrender  value:  The  cash  and  surrender  values  under  traditional  contracts",
-            "Rate of return: the value of the benefits under “With Profit policies” would be",
-            "Yield: the yields on these policies may not be as high as can be obtained from more"
+            "None of the above",
+            "Based on the sum insured chosen for each individual insured",
+            "Based on the age of the youngest member of the family",
+            "Based on the age of the oldest member of the family"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 31,
         "next": 33
     },
     {
         "id": 33,
-        "question": "Shift occurred in the product profiles of Life Insurers",
+        "question": "Who bears the cost of a pre-policy medical check- up in a health insurance policy",
         "options": [
-            "Investment Linkage: The second trend was the shift towards investment linked",
-            "Transparency: Unbundling also ushered greater visibility in the rate of return",
-            "Unbundling: This  trend  involved  separation  of  the  protection  and  savings",
-            "Non-standard Products: The fourth major trend has been a shift from rigid to"
+            "Prospective client",
+            "Healthcare provider",
+            "Insurer",
+            "Government"
         ],
         "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 32,
         "next": 34
     },
     {
         "id": 34,
-        "question": "The appeal – Needs met",
+        "question": "What is a top-up cover in health insurance",
         "options": [
-            "Direct  linkage  with  the  investment  gains: Life  insurers  who  are  able  to",
-            "Inflation beating returns: The rate of return on a life insurance policy must be",
-            "Flexibility: Policyholders could now decide within limits, the amount of premium",
-            "Surrender value: the policies also allowed the policyholders to withdraw from"
+            "A policy that covers only day-care procedures",
+            "A policy that covers only pre-existing conditions",
+            "A policy that provides cover for high sums insured over and above a specified amount",
+            "A policy that covers only accidents"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 33,
         "next": 35
     },
     {
         "id": 35,
-        "question": "Variable Life Insurance Plan",
+        "question": "What is the claim amount in a fixed benefit insurance plan",
         "options": [
-            "A traditional cash value policy has a face amount that remains level throughout the",
-            "Theoretically the cash value can go down to zero, in which case the policy would",
-            "Variable life insurance is a kind of “Whole Life” policy where the death benefit",
-            "The policy thus provides no guarantees with respect to either the interest rate or"
+            "A fixed sum irrespective of the amount spent by the insured for the named treatment",
+            "A variable amount based on the severity of the ailment",
+            "No claim amount is given",
+            "The amount spent by the insured for the named treatment"
         ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 0,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": 34,
         "next": 36
     },
     {
         "id": 36,
-        "question": "Unit Linked Insurance",
+        "question": "What is the proof required to process a claim in a fixed benefit insurance plan",
         "options": [
-            "Unit  linked  plans  were  introduced  in  UK,  in  a  situation  of  substantial",
-            "A need was felt for having both greater investment in equities and also",
-            "Unit  linked  policies  thus  provide  the  means  for  directly  and  immediately",
-            "The benefits under these contracts are wholly or partially determined by the"
+            "Proof of Hospitalization and coverage of ailment under the policy",
+            "Doctor's prescriptions and medical reports",
+            "None of the above",
+            "Detailed bills and invoices of the treatment"
         ],
         "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": 35,
         "next": 37
     },
     {
         "id": 37,
-        "question": "Extra charges:",
+        "question": "What is the waiting period for",
         "options": [
-            "Extra charges are levied on person who are not considered as standard",
-            "Extra charges are levied imposed to those who are engaged in hazardous",
-            "“Standard Lives” are individuals who  are not  subject  to  any significant",
-            "Extra charges are also taken for extra benefits added to the policy. E.g."
+            "Kavach and",
+            "Rakshak 90 days30 days15 days60 days",
+            "Corona",
+            "Corona"
         ],
         "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 36,
         "next": 38
     },
     {
         "id": 38,
-        "question": "Determination of the Premium: Determination of premium is done by actuary in case of traditional policies are as follows:",
+        "question": "What is the maximum sum insured option available under",
         "options": [
-            "Expenses of management",
-            "Interest",
-            "Reserves",
-            "Mortality"
+            "Corona Rakshak",
+            "Rs. 1 lakh Rs. 2.5 lakh",
+            "Rs. 1.5 lakh",
+            "Rs. 2 lakh"
         ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 37,
         "next": 39
     },
     {
         "id": 39,
-        "question": "Dividends may be used in any of the four forms:",
+        "question": "Which of the following policies was launched by the Government to provide health insurance coverage for the below poverty line (BPL) families in association with insurance companies?",
         "options": [
-            "Dividends may be allowed to accumulate, with interest, to the credit of",
-            "Dividends in cash.",
-            "Dividends adjustment to, and reduction in future premiums",
-            "Dividends to purchase of non-forfeitable paid up additions"
+            "Jan Arogya Bima Policy",
+            "Rashtriya Swasthya Bima Yojana (RSBY)",
+            "Ayushman Bharat Scheme",
+            "Bima Kavach Yojana"
         ],
         "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 38,
         "next": 40
     },
     {
         "id": 40,
-        "question": "Age Proof:",
+        "question": "What is the Sum Insured amount for Rashtriya Swasthya Bima Yojana (RSBY)?",
         "options": [
-            "Age is one of the factors that insurer use to determine the risk profile of",
-            "Non-standard age proofs are:",
-            "Standard age proofs are:",
-            "Age proofs can be classified as standard age proof documents and"
+            "Rs. 5,00,000",
+            "Rs. 30,000",
+            "Rs. 50,000",
+            "Rs. 1,00,000"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 39,
         "next": 41
     },
     {
         "id": 41,
-        "question": "For KYC, customers need to submit KYC to an agent with proposal form :",
+        "question": "Which of the following schemes was launched to achieve the vision of Universal Health Coverage (UHC)?",
         "options": [
-            "An age proof",
-            "An address proof; and",
-            "Photograph",
-            "An identity proof"
+            "Scheme Endowment",
+            "Ayushman Bharat Scheme",
+            "Scheme Bima Kavach Yojana",
+            "Money Back"
         ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 40,
         "next": 42
     },
     {
         "id": 42,
-        "question": "Grace Period",
+        "question": "What is the premium amount for",
         "options": [
-            "The standard length of the grace period is one month or 31 days",
-            "The provision enables a policy that would otherwise have lapsed for non-",
-            "The “Grace Period” clause grants the policyholder an additional period of",
-            "The  premium  however  remains  due  and  if  the policyholder  dies  during"
+            "Rs. 20/- per annum per member",
+            "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+            "Rs. 15/- per annum per member",
+            "Rs. 10/- per annum per member Rs. 12/- per annum per member"
         ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 41,
         "next": 43
     },
     {
         "id": 43,
-        "question": "Lapse and Reinstatement / Revival",
+        "question": "What is the most common form of group health insurance",
         "options": [
-            "A revival of the policy cannot however be an unconditional right of the insured.",
-            "Reinstatement is the process by  which a life insurance company puts back",
-            "Policy revival measures: In general one can revive a lapsed policy if the",
-            "Revival is often more advantageous because buying a new policy would call"
+            "Family policy",
+            "Individual policy",
+            "Group policy taken by employers covering employees",
+            "Personal policy"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 42,
         "next": 44
     },
     {
         "id": 44,
-        "question": "Surrender values",
+        "question": "Which factor affects morbidity rates in health insurance",
         "options": [
-            "Surrender Value arrived as a percentage of premiums paid is called Guaranteed",
-            "Life insurers normally have a chart that lists the surrender values at",
-            "Surrender Value is a percentage of paid-up value.",
-            "The actual amount of cash one gets in hand on surrender may be different"
+            "Gender",
+            "Financial status",
+            "Marital status",
+            "Educational qualification"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 0,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": 43,
         "next": 45
     },
     {
         "id": 45,
-        "question": "Policy loan",
+        "question": "Insurers charge lower premiums for which of the following risk types",
         "options": [
-            "The policy loan is usually limited to a percentage of the policy’s surrender value (say",
-            "A loan is what you would recommend to a client in need of urgent funds but",
-            "The loan is granted on the policy being kept as security, the policy has to be",
-            "A loan provides access to liquid funds while keeping the insurance alive"
+            "Declined risks",
+            "Substandard risks",
+            "Standard risks",
+            "Preferred risks"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 44,
         "next": 46
     },
     {
         "id": 46,
-        "question": "Special policy provisions and endorsement",
+        "question": "Before issuing a policy, the specific consent of the policyholder for any underwriting loading charged over and above the premium must be obtained. This regulation is for the benefit of",
         "options": [
-            "Alteration",
-            "Nomination",
-            "Duplicate policy",
-            "Assignment"
+            "The insurance company",
+            "The regulator",
+            "The policyholder",
+            "The insurance agent"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 45,
         "next": 47
     },
     {
         "id": 47,
-        "question": "Underwriting Decisions:",
+        "question": "What is the consequence of breach or concealment of information by the insured in insurance",
         "options": [
-            "Acceptance with an extra: most common way of dealing with the large",
-            "Acceptance with a lien on the same sum assured",
-            "Acceptance with a restrictive clause: limits death benefit in the event",
-            "Acceptance at ordinary rates (OR): most common decision"
+            "Increase in premium",
+            "Policy becomes void",
+            "Policy remains unaffected",
+            "Decrease in premium"
         ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 46,
         "next": 48
     },
     {
         "id": 48,
-        "question": "Examples of events triggering survival claims:",
+        "question": "What are the different categories of risk into which the underwriter can classify a proposal",
         "options": [
-            "An installment payable upon reaching the milestone under a money-back policy",
-            "Maturity of the policy",
-            "Critical illnesses covered under the policy as a rider benefit",
-            "Surrender of the policy either by the policyholder or assignee"
+            "Accept risk at an extra premium",
+            "All of the above",
+            "Postpone the cover for a stipulated period/ term",
+            "Accept risk at standard rates, extra premium, or decline the cover"
         ],
         "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 47,
         "next": 49
     },
     {
         "id": 49,
-        "question": "Ascertaining whether a claim event has occurred",
+        "question": "In which cities are the premiums for certain products higher due to higher claims cost",
         "options": [
-            "Critical  illness  claims  are  ascertained  based  on  the  medical  and  other",
-            "Surrender  value  payments  are  different  from  other  claim  payments.",
-            "Maturity claims and money-back installment claims are easily established",
-            "For  payment  of  a  survival  claim,  the  insurer  has  to  ascertain  that  the"
+            "Tourist destinations",
+            "Small towns and villages",
+            "Industrial hubs",
+            "Metros and 'A Class' cities"
         ],
         "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 48,
         "next": 50
     },
     {
         "id": 50,
-        "question": "Maturity Claim Payment:",
+        "question": "Which of the following non-employer groups can be offered group health insurance",
         "options": [
-            "Participating  Plan: The  amount  payable  under  a  maturity  claim,  if",
-            "Unit Linked Insurance Plan (ULIP): In case of ULIPs, the insurer pays",
-            "Money-back Plan: In case of money-back policy, the insurer pays the",
-            "Return  of  Premium  (ROP)  Plan: In some cases premiums paid over"
+            "Borrowers of a bank",
+            "Customers of a particular business where insurance is offered as an add- on benefit",
+            "All of the above",
+            "Employer welfare associations"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 49,
         "next": 51
     },
     {
         "id": 51,
-        "question": "What is Health Insurance? World Health Organization (WHO): Health is a state of complete physical, mental and social wellbeing and not merely the absence of disease.",
+        "question": "What is the main cover under",
         "options": [
-            "Genetic Factors",
-            "Lifestyle Factors",
-            "Environmental Factors",
-            "Determinants of Health:"
+            "Insurance policies",
+            "Overseas Travel",
+            "Life cover Home insurance",
+            "Health cover Vehicle insurance"
         ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 50,
         "next": 52
     },
     {
         "id": 52,
-        "question": "Levels of Healthcare: Health care to be effective must be",
+        "question": "Which risk group does a person working in underground mines belong to",
         "options": [
-            "Comprehensive",
-            "Adequate",
-            "Appropriate to the needs of the people",
-            "Easily Available"
+            "IIRisk group",
+            "Risk group",
+            "IRisk group",
+            "IIINone of the above"
         ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 0,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": 51,
         "next": 53
     },
     {
         "id": 53,
-        "question": "Health Insurance Market",
+        "question": "What is the true test of an insurer's performance in insurance?",
         "options": [
-            "Insurance providers: Insurance companies especially in the general",
-            "Other Important Organizations :",
-            "Intermediaries: A number of people and organizations (Governed by",
-            "Infrastructure :"
+            "Location of Company office premises",
+            "The claims paying ability of the insurance company",
+            "The colour of the insurance company's logo",
+            "The number of employees the insurance company has"
         ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 52,
         "next": 54
     },
     {
         "id": 54,
-        "question": "Proposal Form:",
+        "question": "What happens from the time a health claim is made known to the insurer/TPA to the time the payment is made as per the policy terms?",
         "options": [
-            "Proposal form is to be filled in by the proposer.",
-            "Document  is  required  for  the  purpose  of  bringing  understanding  and  clarity",
-            "The first stage of the document is basically the proposal form.",
-            "The principal of utmost good faith and the duty of disclosure of material"
+            "The claim goes through a set of well- defined steps",
+            "The claim is rejected immediately",
+            "The insurer/TPA ignores the claim",
+            "The payment is made without any verification"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 0,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": 53,
         "next": 55
     },
     {
         "id": 55,
-        "question": "Premium Receipt:",
+        "question": "How is claim intimation to Insurer / TPA possible according to the statement?",
         "options": [
-            "Premium is a consideration or amount paid by the insured to the insurer for",
-            "Sec 64 VB of the Insurance Act of 1938 (a special feature of Non- Life",
-            "The risk will commence only from the date on which the premium has been paid in",
-            "If an agent collects the premium from the insured on behalf of the insurer,"
+            "Only Through postal mail",
+            "Only Through fax Through Mobile",
+            "Only Through telegrams",
+            "Apps/ call centres/ internet/ e-mail"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 54,
         "next": 56
     },
     {
         "id": 56,
-        "question": "Policy Document",
+        "question": "What action is taken by the company in case the intimation is for a planned surgery under the Cash- less scheme?",
         "options": [
-            "A Health insurance Policy should contain - Name and address of the insured,",
-            "The document has to be stamped as per the provisions of the Indian Stamp Act,",
-            "Action  to  be  taken  by  the  insured  for  raising  of  claim,  obligations  of  the",
-            "It is a formal document which is the evidence of the contract of insurance."
+            "The claim is directly processed",
+            "Pre-authorization of likely expenditure is given to the hospital",
+            "The hospital is contacted for more information",
+            "The claim is rejected"
         ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 55,
         "next": 57
     },
     {
         "id": 57,
-        "question": "Interpretation of Policies",
+        "question": "Which of the following alternative modes of treatment may be covered by health insurance policies, but may have sub-limits?",
         "options": [
-            "Clauses in Italic words override ordinary printed wordings.",
-            "If an endorsement contradicts the contract, the endorsement prevails.",
-            "The policy interpretation has to be well defined. If it is ambiguous, the courts",
-            "A written condition overrides an implied condition. A hand written or typed"
+            "Homeopathy",
+            "Siddha",
+            "Unani",
+            "All of the above"
         ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 56,
         "next": 58
     },
     {
         "id": 58,
-        "question": "Anti- Money Laundering and Know Your Customer Guidelines.",
+        "question": "What has been standardized under IRDAI Health Insurance Standardization Guidelines?",
         "options": [
-            "The legislation of Prevention of Money Laundering Act 2002 was enacted by",
-            "Agents are required to collect the following documents:",
-            "Money  laundering  is  the  process  of converting  illegally  obtained  funds  into",
-            "As per KYC guidelines, every customer needs to submit their address"
+            "Sum insured available for the member under the policy",
+            "Non-payable items in health insurance",
+            "Balance sum insured available under the policy for the member after taking into account any claim made already",
+            "Deductible amount"
         ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 57,
         "next": 59
     },
     {
         "id": 59,
-        "question": "Post  hospitalization  expenses  would  be  relevant  medical  expenses  incurred  during period up to the defined number of days (generally 60 days) after hospitalization and will be considered as part of claim.",
+        "question": "What are some examples of frauds committed in health insurance?",
         "options": [
-            "Top-up covers",
-            "Coverage options available",
-            "Domiciliary hospitalization",
-            "Common  exclusions -Pre-existing  diseases  the  exclusion  is:  Any  pre-"
+            "Fabrication of documents",
+            "Inflation of expenses",
+            "All of the above",
+            "Impersonation"
         ],
         "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 58,
         "next": 60
     },
     {
         "id": 60,
-        "question": "A  hospital  means  any  institution  established  for  in-patient  care  and  day  care treatment of sickness and / or injuries and which has been registered as a hospital with the local authorities, AND must comply with all minimum criteria as under: IRDAI Refresher Confidential",
+        "question": "What options are available for customers if their claim is denied?",
         "options": [
-            "Has a fully equipped operation theatre of its own where surgical procedures",
-            "Has at least 10 inpatient beds in those towns having a population of less",
-            "Has qualified medical practitioner(s) in charge round the clock;",
-            "Has qualified nursing staff under its employment round the clock;"
+            "Ombudsman All of the above",
+            "IRDAIThe Consumer",
+            "Commissions",
+            "Insurance"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 0,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": 59,
         "next": 61
     },
     {
         "id": 61,
-        "question": "Challenges in health insurance",
+        "question": "Who takes the decision on whether the cashless authorization could be provided or not?",
         "options": [
-            "Health insurance can be purchased by an individual, a group such as a",
-            "Majority of the policies are for hospitalization indemnity where the subject",
-            "Health insurance depends on the act of being hospitalized, to trigger a claim under the",
-            "India presents very peculiar patterns of illnesses, approach to treatment and follow up."
+            "The patient",
+            "The hospital",
+            "TPAThe insurer",
+            "The"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 60,
         "next": 62
     },
     {
         "id": 62,
-        "question": "Discharge summary-As per IRDAI Standardization Guidelines the contents of a standard Discharge Summary are as follows:",
+        "question": "What does the TPA do after studying the information provided in the cashless authorization form?",
         "options": [
-            "Admission No",
-            "Patient’s Name",
-            "Telephone No / Mobile No",
-            "IPD No"
+            "None of the above",
+            "Takes a decision on whether cashless authorization could be provided and, if so, for how much amount",
+            "Approves the cashless authorization without delay",
+            "Rejects the cashless authorization immediately"
         ],
         "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 61,
         "next": 63
     },
     {
         "id": 63,
-        "question": "Claim form-Claim form is the formal and legal request for processing the claim and is submitted in original signed by the customer. The claim form has now been standardized by IRDAI and broadly consists of:",
+        "question": "What is the most important document required to process a health insurance claim?",
         "options": [
-            "Details of the insurance history",
-            "Details of the insured person hospitalized.",
-            "Details of the primary insured and the policy number under which the claim is made.",
-            "Details of the hospitalization such as hospital, room category, date and"
+            "Receipt for payment",
+            "Investigation report",
+            "Discharge summary",
+            "Consolidated and detailed bills"
         ],
         "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 62,
         "next": 64
     },
     {
         "id": 64,
-        "question": "Documents contingent to specific claims-There are certain types of claims that require additional documents apart from what has been stated above. These are:",
+        "question": "What is the purpose of investigation reports in health insurance claims?",
         "options": [
-            "Dialysis / Chemotherapy / Physiotherapy charts where applicable.",
-            "Case indoor papers in case of complicated or high value claims. Indoor case paper",
-            "Accident claims, where FIR or Medico-legal certificate issued by the hospital to",
-            "Hospital registration certificate, where the compliance with the definition of hospital"
+            "To assist in comparing the diagnosis and treatment",
+            "To provide a summary of the patient's condition",
+            "To verify the identity of the patient",
+            "To provide a break-up of the bills"
         ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 0,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": 63,
         "next": 65
     },
     {
         "id": 65,
-        "question": "Post sale service of health insurance",
+        "question": "Which document may be required for accident claims?",
         "options": [
-            "Once the proposal (and the premium) is accepted, the coverage commences.",
-            "The membership with the TPA is used for availing cashless facility as well as",
-            "The TPA enrolls the members (while the proposer is the person taking the policy,",
-            "If  a  TPA  is  to  be used  for  servicing  the  policy,  the  insurer  passes  on  the"
+            "FIR or",
+            "Consolidated and detailed bills",
+            "Medico-legal certificate",
+            "Identity proof Dialysis/Chemotherapy/Physiotherap y charts"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 64,
         "next": 66
     },
     {
         "id": 66,
-        "question": "Objectives of third party administration (TPA)",
+        "question": "What document does the TPA issue to the hospital for cashless treatment?",
         "options": [
-            "To create functional expertise in handling health insurance claims and related services.",
-            "To organise cashless treatment for the insured patient at network hospitals.",
-            "To facilitate service to a customer of health insurance in all possible manners at the",
-            "To provide fair and fast settlement of claims to the customers based on the claim"
+            "Letter of Guarantee",
+            "Pre-authorization or",
+            "Medical report Discharge summary",
+            "Prescription for medication"
         ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 0,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": 65,
         "next": 67
     },
     {
         "id": 67,
-        "question": "Relationship between insurer and TPA- The relationship between an insurer and the TPA is contractual with a host of requirements and process steps built into the contract. IRDAI Health Insurance  Standardization guidelines now lay down guidelines and provide a set of suggested standard clauses for contract between TPA and insurance company, which are follows:",
+        "question": "What documents are required for name and address verification for AML (Anti-money laundering) purposes?",
         "options": [
-            "Customer relationship and contact management",
-            "Call centre services",
-            "Cashless access services",
-            "Provider networking services"
+            "PAN card and telephone bill",
+            "Birth certificate and rental agreement",
+            "Passport and bank statement",
+            "Aadhar card and credit card statement"
         ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 0,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": 66,
         "next": 68
     },
     {
         "id": 68,
-        "question": "Overseas travel insurance policy- The covers under the policy can be broadly divided into following sections. A specific product may cover all or few of the below mentioned benefits:",
+        "question": "Which of the following is NOT a service provided by assistance companies during overseas travel insurance claims?",
         "options": [
-            "Medical and sickness section,",
-            "Personal liability",
-            "Repatriation and evacuation,",
-            "Personal accident cover"
+            "Medical service provider referrals",
+            "Interpreter Referral",
+            "Medicines Rental car booking",
+            "Delivery of Essential"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 67,
         "next": 69
     },
     {
         "id": 69,
-        "question": "Assistance companies (Third Party Service Provider) - Role in overseas claims",
+        "question": "Which of the following steps is necessary for hospitalization in case of a travel insurance claim?",
         "options": [
-            "Medical assistance services:",
-            "Monitoring of Medical Condition during and after hospitalization",
-            "Delivery of Essential Medicines",
-            "Guarantee of Medical Expenses Incurred during hospitalization subject to"
+            "None of the above",
+            "Submit a written request to the insurance company",
+            "Intimate the call centre and proceed to a specified hospital with a valid travel insurance policy",
+            "Visit any hospital of choice"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 68,
         "next": 70
     },
     {
         "id": 70,
-        "question": "Claims management for cashless medical cases",
+        "question": "Which type of claim payment is made in foreign currency?",
         "options": [
-            "Claim notification",
-            "Payment process steps",
-            "Case management steps",
-            "Claims processing Steps"
+            "Reimbursement claims",
+            "None of the above",
+            "Both cashless and reimbursement claims",
+            "Cashless claims"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic-38-irdai-refresher-workbook.pdf",
-        "chartData": null,
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 69,
         "next": 71
     },
     {
         "id": 71,
-        "question": "new guidelines for traditional products",
+        "question": "What currency is used for payments for admissible claims in reimbursement claims for overseas travel insurance?",
         "options": [
-            "New traditional products will have a higher death cover.",
-            "These plans would continue to come intwo variants, participating and nonparticipating",
-            "Theminimum death benefitin case of traditional plan is at least the amount",
-            "In addition to the sum assured, the bonus / additional benefits as specified in"
+            "United States",
+            "Dollar (USD) Euro (EUR)",
+            "Indian Rupee (INR)",
+            "British Pound (GBP)"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: ic38-irda-fresh.pdf",
-        "chartData": null,
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 70,
         "next": 72
     },
     {
         "id": 72,
-        "question": "1 65 66 4 67 68 69 70 71",
+        "question": "Which document is required to certify the disability of an insured individual?",
         "options": [
-            "75",
-            "73",
-            "72",
-            "74"
-        ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
-        "chartData": null,
-        "previous": 71,
-        "next": 73
-    },
-    {
-        "id": 73,
-        "question": "1 80 81 82 83",
-        "options": [
-            "85",
-            "87",
-            "84",
-            "86"
-        ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
-        "chartData": null,
-        "previous": 72,
-        "next": 74
-    },
-    {
-        "id": 74,
-        "question": "4 106 107 108 109",
-        "options": [
-            "111",
-            "110",
-            "112",
-            "113"
+            "Driving license",
+            "Passport",
+            "Permanent disability certificate from a civil surgeon or equivalent competent doctors",
+            "Birth certificate"
         ],
         "correctIndex": 2,
         "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
-        "chartData": null,
-        "previous": 73,
-        "next": 75
-    },
-    {
-        "id": 75,
-        "question": "241 3 242 1 243 244 245 246",
-        "options": [
-            "248",
-            "249",
-            "247",
-            "250"
-        ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
-        "chartData": null,
-        "previous": 74,
-        "next": 76
-    },
-    {
-        "id": 76,
-        "question": "3 279 280 3",
-        "options": [
-            "283",
-            "284",
-            "281",
-            "282"
-        ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
-        "chartData": null,
-        "previous": 75,
+        "previous": 71,
         "next": null
     }
 ]
