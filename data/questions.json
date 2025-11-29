@@ -3,12 +3,12 @@
         "id": 1,
         "question": "Life Insurance Corporation of India(LIC) was set up under which of the following acts?",
         "options": [
+            "The Insurance Act, 1938",
             "Life Insurance Corporation Act, 1956",
             "Indian Insurance Companies Act, 1928",
-            "The Insurance Act, 1938",
             "Life Insurance Companies Act, 1912"
         ],
-        "correctIndex": 0,
+        "correctIndex": 1,
         "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": null,
         "next": 2
@@ -17,13 +17,13 @@
         "id": 2,
         "question": "Which priciple of insurance implies if the same property is insured with more than one insurance company",
         "options": [
-            "Subrogation",
             "Contribution",
-            "Uberrima fides",
-            "Proximate cause"
+            "Subrogation",
+            "Proximate cause",
+            "Uberrima fides"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 0,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": 1,
         "next": 3
     },
@@ -33,64 +33,64 @@
         "options": [
             "Insurable Interest",
             "Uberrima fides",
-            "Indemnity",
-            "Subrogation Proximate cause"
+            "Subrogation Proximate cause",
+            "Indemnity"
         ],
         "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 2,
         "next": 4
     },
     {
         "id": 4,
-        "question": "Expections stated under",
+        "question": "Arbitrators appoint  ________________who presides the meeting. A President",
         "options": [
-            "Insurance cannot be sold on credit basis in India Accepting premiums in instalment in respect of Sickness",
-            "Insurance and Hospitalisation Insurance Schemes subject to certain conditions None of the above",
-            "Insurance, Group Personal Accident Insurance, Medical Benefits",
-            "Section 59 of the Insurance Rules 1939 for advance payment of premium. No risk to be assumed unless premium is received in advance"
+            "Umpire",
+            "A Chairman",
+            "An",
+            "A Judge"
         ],
-        "correctIndex": 2,
+        "correctIndex": 0,
         "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 3,
         "next": 5
     },
     {
         "id": 5,
-        "question": "Arbitrators appoint  ________________who presides the meeting. A President",
+        "question": "Which of the below statement/statements is/are true with regard to a proposal form?",
         "options": [
-            "An",
-            "Umpire",
-            "A Chairman",
-            "A Judge"
+            "CAll of them",
+            "The insurer can decide whether to accept or reject the proposal for insurance based on the information in proposal form. A & BA & COnly",
+            "A) The proposal form can be filled in by the proposer in written or electronic format. B)",
+            "The proposal form contains the details of imsurance cover, warranties, terms and conditions. C)"
         ],
-        "correctIndex": 1,
+        "correctIndex": 3,
         "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 4,
         "next": 6
     },
     {
         "id": 6,
-        "question": "Which of the below statement/statements is/are true with regard to a proposal form?",
+        "question": "Declaration of the proposer in the proposal form converts _____________________________of",
         "options": [
-            "CAll of them",
-            "A) The proposal form can be filled in by the proposer in written or electronic format. B)",
-            "The insurer can decide whether to accept or reject the proposal for insurance based on the information in proposal form. A & BA & COnly",
-            "The proposal form contains the details of imsurance cover, warranties, terms and conditions. C)"
+            "Duty, Common Law Principle Common Law",
+            "Utmost Good Faith to __________________________ of Utmost",
+            "Principle, Contractual Duty Common Law Principle, Legal Duty",
+            "Good Faith. Legal Duty, Common Law Principle Contractual"
         ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 0,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 5,
         "next": 7
     },
     {
         "id": 7,
-        "question": "Declaration of the proposer in the proposal form converts _____________________________of",
+        "question": "During which period, insurance policy can be returned and refund of premium obtained?",
         "options": [
-            "Utmost Good Faith to __________________________ of Utmost",
-            "Duty, Common Law Principle Common Law",
-            "Principle, Contractual Duty Common Law Principle, Legal Duty",
-            "Good Faith. Legal Duty, Common Law Principle Contractual"
+            "Period Waiting",
+            "Free Look",
+            "Period Grace Period",
+            "Coverage period"
         ],
         "correctIndex": 1,
         "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
@@ -99,230 +99,146 @@
     },
     {
         "id": 8,
-        "question": "Elements of Trust are",
+        "question": "Which Consumer dispute redressal agency is established by the Central Government?",
         "options": [
-            "Attraction,",
-            "Presence A & BA, B & CA, C & DA, B & D",
-            "Belief,",
-            "Communication,"
+            "Commission Both",
+            "District & State Commission",
+            "State Commission National",
+            "Commission District"
         ],
-        "correctIndex": 1,
+        "correctIndex": 3,
         "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 7,
         "next": 9
     },
     {
         "id": 9,
-        "question": "During which period, insurance policy can be returned and refund of premium obtained?",
+        "question": "Whom can the aggrieved insurance agent appeal to in case of cancellation of appointment?",
         "options": [
-            "Coverage period",
-            "Period Waiting",
-            "Free Look",
-            "Period Grace Period"
+            "Official Appellate",
+            "Authority Appellate Official",
+            "Designated",
+            "Appellate Officer"
         ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 8,
         "next": 10
     },
     {
         "id": 10,
-        "question": "The customer has choice to continue with same insurer or to switch to another insurance company in following kind of policies: Term",
+        "question": "What as per the code of conduct mentioned in the",
         "options": [
-            "Motor Third Party Policy",
-            "Endowment Policy",
-            "Insurance Policy",
-            "Unit Linked Insurance Policy"
+            "IRDAI (Appointment of Agents) Regulations, 2016, the insurance agents are prohibited from - Demand / receive share of benefit from insurer",
+            "Inducing the prospect to omit a material fact in the proposal form",
+            "Soliciting or procuring insurance business without setting up a registered office",
+            "Issuing insurance advertisement"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 9,
         "next": 11
     },
     {
         "id": 11,
-        "question": "Appeals against orders passed by",
+        "question": "Which of the following insurances does not cover personal risks?",
         "options": [
-            "State Consumer Disputes Redressal",
-            "Court State Commission Civil",
-            "Court National Commission",
-            "Commission are accepted for hearing at ______________. High"
+            "Personal Accident",
+            "Motor Own Damage Insurance",
+            "Life Insurance",
+            "Insurance Fire Insurance"
         ],
-        "correctIndex": 2,
+        "correctIndex": 3,
         "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 10,
         "next": 12
     },
     {
         "id": 12,
-        "question": "Which Consumer dispute redressal agency is established by the Central Government?",
+        "question": "The term ______ refers to the process of evaluating each proposal for life insurance in terms of the degree of risk it represents and then deciding whether or not to grant insurance and on what terms",
         "options": [
-            "Commission Both",
-            "Commission District",
-            "District & State Commission",
-            "State Commission National"
+            "Risk Management",
+            "Claims Management",
+            "Reinsurance",
+            "Underwriting"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 11,
         "next": 13
     },
     {
         "id": 13,
-        "question": "A complaint can be filed with the",
+        "question": "Which of the following is the most common way of dealing with sub-standard risks",
         "options": [
-            "Agencies by- The advocate",
-            "Consumer Dispute Redressal",
-            "The Consumer or his authorised agent Only the consumer",
-            "The agent authorised by the consumer"
+            "Acceptance with an extra",
+            "Accepting the risk without any extra charges",
+            "Rejecting the risk",
+            "Accepting the risk with a discount"
         ],
-        "correctIndex": 3,
+        "correctIndex": 0,
         "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 12,
         "next": 14
     },
     {
         "id": 14,
-        "question": "Whom can the aggrieved insurance agent appeal to in case of cancellation of appointment?",
+        "question": "What is the significance of a person's blood pressure as an indicator of disease",
         "options": [
-            "Designated",
-            "Official Appellate",
-            "Appellate Officer",
-            "Authority Appellate Official"
+            "High blood pressure can have serious health consequences",
+            "It can indicate impairment of the endocrine system",
+            "It does not indicate any disease",
+            "It can indicate malfunctioning of the urinary system"
         ],
-        "correctIndex": 2,
+        "correctIndex": 0,
         "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 13,
         "next": 15
     },
     {
         "id": 15,
-        "question": "What as per the code of conduct mentioned in the",
+        "question": "Which of the following factors are mostly in the control of an individual for maintaining good health",
         "options": [
-            "Issuing insurance advertisement",
-            "Inducing the prospect to omit a material fact in the proposal form",
-            "Soliciting or procuring insurance business without setting up a registered office",
-            "IRDAI (Appointment of Agents) Regulations, 2016, the insurance agents are prohibited from - Demand / receive share of benefit from insurer"
+            "Environmental factors",
+            "Lifestyle factors",
+            "Genetic factors",
+            "Social factors"
         ],
         "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 14,
         "next": 16
     },
     {
         "id": 16,
-        "question": "Which of the following insurances does not cover personal risks?",
+        "question": "Which diseases are spread due to bad hygiene and environmental sanitation",
         "options": [
-            "Life Insurance",
-            "Insurance Fire Insurance",
-            "Motor Own Damage Insurance",
-            "Personal Accident"
+            "AIDSHypertension and diabetes",
+            "Cancer and",
+            "Influenza and chickenpox",
+            "None of the above"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 15,
         "next": 17
     },
     {
         "id": 17,
-        "question": "Amounts set aside from current consumption without being earmarked for any specific purposes is termed as",
+        "question": "Does a country's social and economic progress depend on the health of its people",
         "options": [
-            "Future Provision Wealth",
-            "Consumption Parting with Liquidity",
-            "Current",
-            "Accumulation"
+            "No, there is no relationship between the two",
+            "The relationship is uncertain",
+            "The relationship is indirect",
+            "Yes, there is a direct relationship between the two"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 16,
         "next": 18
     },
     {
         "id": 18,
-        "question": "The term ______ refers to the process of evaluating each proposal for life insurance in terms of the degree of risk it represents and then deciding whether or not to grant insurance and on what terms",
-        "options": [
-            "Claims Management",
-            "Reinsurance",
-            "Risk Management",
-            "Underwriting"
-        ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
-        "previous": 17,
-        "next": 19
-    },
-    {
-        "id": 19,
-        "question": "Which of the following is the most common way of dealing with sub-standard risks",
-        "options": [
-            "Accepting the risk with a discount",
-            "Acceptance with an extra",
-            "Accepting the risk without any extra charges",
-            "Rejecting the risk"
-        ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
-        "previous": 18,
-        "next": 20
-    },
-    {
-        "id": 20,
-        "question": "What is the significance of a person's blood pressure as an indicator of disease",
-        "options": [
-            "It does not indicate any disease",
-            "It can indicate impairment of the endocrine system",
-            "High blood pressure can have serious health consequences",
-            "It can indicate malfunctioning of the urinary system"
-        ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
-        "previous": 19,
-        "next": 21
-    },
-    {
-        "id": 21,
-        "question": "Which of the following factors are mostly in the control of an individual for maintaining good health",
-        "options": [
-            "Genetic factors",
-            "Environmental factors",
-            "Lifestyle factors",
-            "Social factors"
-        ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
-        "previous": 20,
-        "next": 22
-    },
-    {
-        "id": 22,
-        "question": "Which diseases are spread due to bad hygiene and environmental sanitation",
-        "options": [
-            "AIDSHypertension and diabetes",
-            "Influenza and chickenpox",
-            "Cancer and",
-            "None of the above"
-        ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
-        "previous": 21,
-        "next": 23
-    },
-    {
-        "id": 23,
-        "question": "Does a country's social and economic progress depend on the health of its people",
-        "options": [
-            "Yes, there is a direct relationship between the two",
-            "The relationship is uncertain",
-            "No, there is no relationship between the two",
-            "The relationship is indirect"
-        ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
-        "previous": 22,
-        "next": 24
-    },
-    {
-        "id": 24,
         "question": "Which healthcare provider would",
         "options": [
             "A specialist at a hospital",
@@ -331,138 +247,110 @@
             "A primary healthcare provider"
         ],
         "correctIndex": 0,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "previous": 17,
+        "next": 19
+    },
+    {
+        "id": 19,
+        "question": "Which section of the",
+        "options": [
+            "Health Insurance from taxable income",
+            "Income Tax Act allows individuals to deduct premiums paid towards",
+            "CSection 80 ESection 80 D",
+            "Section 80 BSection 80"
+        ],
+        "correctIndex": 2,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
+        "previous": 18,
+        "next": 20
+    },
+    {
+        "id": 20,
+        "question": "Which of the following is not a type of private health care provider in",
+        "options": [
+            "Corporate hospitals",
+            "Diagnostic laboratories",
+            "India Solo practitioners",
+            "Government clinics"
+        ],
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
+        "previous": 19,
+        "next": 21
+    },
+    {
+        "id": 21,
+        "question": "What are the two broad categories of health insurance products",
+        "options": [
+            "Indemnity covers and hospital cash (fixed benefit) covers",
+            "Dental covers and critical illness covers",
+            "Home care covers and personal accident covers",
+            "Out-patient covers and travel covers"
+        ],
+        "correctIndex": 0,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "previous": 20,
+        "next": 22
+    },
+    {
+        "id": 22,
+        "question": "Which category of health insurance products constitutes the bulk of the health insurance",
+        "options": [
+            "Personal accident covers",
+            "Indemnity covers",
+            "Hospital cash (fixed benefit) covers",
+            "Home care covers"
+        ],
+        "correctIndex": 1,
         "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
+        "previous": 21,
+        "next": 23
+    },
+    {
+        "id": 23,
+        "question": "Which of the following procedures are covered under the policy",
+        "options": [
+            "Cosmetic surgeries",
+            "Eye surgeries",
+            "Dental procedures",
+            "None of the above"
+        ],
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "previous": 22,
+        "next": 24
+    },
+    {
+        "id": 24,
+        "question": "What is a family floater policy",
+        "options": [
+            "Only the individual can be covered under this policy",
+            "Only the dependent family members can be covered under this policy",
+            "A policy that offers a single sum insured which floats over the entire family",
+            "None of the above"
+        ],
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 23,
         "next": 25
     },
     {
         "id": 25,
-        "question": "Which section of the",
+        "question": "Who bears the cost of a pre-policy medical check- up in a health insurance policy",
         "options": [
-            "Section 80 BSection 80",
-            "Health Insurance from taxable income",
-            "Income Tax Act allows individuals to deduct premiums paid towards",
-            "CSection 80 ESection 80 D"
+            "Prospective client",
+            "Government",
+            "Healthcare provider",
+            "Insurer"
         ],
         "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 24,
         "next": 26
     },
     {
         "id": 26,
-        "question": "Which of the following is not a type of private health care provider in",
-        "options": [
-            "Diagnostic laboratories",
-            "India Solo practitioners",
-            "Government clinics",
-            "Corporate hospitals"
-        ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
-        "previous": 25,
-        "next": 27
-    },
-    {
-        "id": 27,
-        "question": "The following intermediary facilitates carrying out of pre-insurance medical examinations in connection with underwriting of the health insurance policies",
-        "options": [
-            "Reinsurance Broker",
-            "Surveyor and Loss Assessor",
-            "Insurance Broker",
-            "Third Party Administrator"
-        ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
-        "previous": 26,
-        "next": 28
-    },
-    {
-        "id": 28,
-        "question": "What are the two broad categories of health insurance products",
-        "options": [
-            "Indemnity covers and hospital cash (fixed benefit) covers",
-            "Dental covers and critical illness covers",
-            "Out-patient covers and travel covers",
-            "Home care covers and personal accident covers"
-        ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
-        "previous": 27,
-        "next": 29
-    },
-    {
-        "id": 29,
-        "question": "Which category of health insurance products constitutes the bulk of the health insurance",
-        "options": [
-            "Home care covers",
-            "Indemnity covers",
-            "Hospital cash (fixed benefit) covers",
-            "Personal accident covers"
-        ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
-        "previous": 28,
-        "next": 30
-    },
-    {
-        "id": 30,
-        "question": "Which of the following procedures are covered under the policy",
-        "options": [
-            "Dental procedures",
-            "Eye surgeries",
-            "Cosmetic surgeries",
-            "None of the above"
-        ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
-        "previous": 29,
-        "next": 31
-    },
-    {
-        "id": 31,
-        "question": "What is a family floater policy",
-        "options": [
-            "A policy that offers a single sum insured which floats over the entire family",
-            "None of the above",
-            "Only the dependent family members can be covered under this policy",
-            "Only the individual can be covered under this policy"
-        ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
-        "previous": 30,
-        "next": 32
-    },
-    {
-        "id": 32,
-        "question": "In a family floater policy, how is the premium calculated",
-        "options": [
-            "None of the above",
-            "Based on the sum insured chosen for each individual insured",
-            "Based on the age of the youngest member of the family",
-            "Based on the age of the oldest member of the family"
-        ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
-        "previous": 31,
-        "next": 33
-    },
-    {
-        "id": 33,
-        "question": "Who bears the cost of a pre-policy medical check- up in a health insurance policy",
-        "options": [
-            "Prospective client",
-            "Healthcare provider",
-            "Insurer",
-            "Government"
-        ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
-        "previous": 32,
-        "next": 34
-    },
-    {
-        "id": 34,
         "question": "What is a top-up cover in health insurance",
         "options": [
             "A policy that covers only day-care procedures",
@@ -472,11 +360,11 @@
         ],
         "correctIndex": 2,
         "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
-        "previous": 33,
-        "next": 35
+        "previous": 25,
+        "next": 27
     },
     {
-        "id": 35,
+        "id": 27,
         "question": "What is the claim amount in a fixed benefit insurance plan",
         "options": [
             "A fixed sum irrespective of the amount spent by the insured for the named treatment",
@@ -486,95 +374,95 @@
         ],
         "correctIndex": 0,
         "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
-        "previous": 34,
-        "next": 36
+        "previous": 26,
+        "next": 28
     },
     {
-        "id": 36,
+        "id": 28,
         "question": "What is the proof required to process a claim in a fixed benefit insurance plan",
         "options": [
-            "Proof of Hospitalization and coverage of ailment under the policy",
             "Doctor's prescriptions and medical reports",
             "None of the above",
+            "Proof of Hospitalization and coverage of ailment under the policy",
             "Detailed bills and invoices of the treatment"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
-        "previous": 35,
-        "next": 37
+        "correctIndex": 2,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "previous": 27,
+        "next": 29
     },
     {
-        "id": 37,
+        "id": 29,
         "question": "What is the waiting period for",
         "options": [
-            "Kavach and",
-            "Rakshak 90 days30 days15 days60 days",
             "Corona",
+            "Rakshak 90 days30 days15 days60 days",
+            "Kavach and",
             "Corona"
         ],
-        "correctIndex": 2,
+        "correctIndex": 0,
         "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
-        "previous": 36,
-        "next": 38
+        "previous": 28,
+        "next": 30
     },
     {
-        "id": 38,
+        "id": 30,
         "question": "What is the maximum sum insured option available under",
         "options": [
-            "Corona Rakshak",
             "Rs. 1 lakh Rs. 2.5 lakh",
             "Rs. 1.5 lakh",
+            "Corona Rakshak",
             "Rs. 2 lakh"
         ],
-        "correctIndex": 1,
+        "correctIndex": 0,
         "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
-        "previous": 37,
-        "next": 39
+        "previous": 29,
+        "next": 31
     },
     {
-        "id": 39,
+        "id": 31,
         "question": "Which of the following policies was launched by the Government to provide health insurance coverage for the below poverty line (BPL) families in association with insurance companies?",
         "options": [
-            "Jan Arogya Bima Policy",
-            "Rashtriya Swasthya Bima Yojana (RSBY)",
             "Ayushman Bharat Scheme",
-            "Bima Kavach Yojana"
+            "Bima Kavach Yojana",
+            "Rashtriya Swasthya Bima Yojana (RSBY)",
+            "Jan Arogya Bima Policy"
         ],
-        "correctIndex": 1,
+        "correctIndex": 2,
         "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
-        "previous": 38,
-        "next": 40
+        "previous": 30,
+        "next": 32
     },
     {
-        "id": 40,
+        "id": 32,
         "question": "What is the Sum Insured amount for Rashtriya Swasthya Bima Yojana (RSBY)?",
         "options": [
-            "Rs. 5,00,000",
-            "Rs. 30,000",
             "Rs. 50,000",
-            "Rs. 1,00,000"
+            "Rs. 1,00,000",
+            "Rs. 5,00,000",
+            "Rs. 30,000"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
-        "previous": 39,
-        "next": 41
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
+        "previous": 31,
+        "next": 33
     },
     {
-        "id": 41,
+        "id": 33,
         "question": "Which of the following schemes was launched to achieve the vision of Universal Health Coverage (UHC)?",
         "options": [
             "Scheme Endowment",
-            "Ayushman Bharat Scheme",
+            "Money Back",
             "Scheme Bima Kavach Yojana",
-            "Money Back"
+            "Ayushman Bharat Scheme"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
-        "previous": 40,
-        "next": 42
+        "correctIndex": 3,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
+        "previous": 32,
+        "next": 34
     },
     {
-        "id": 42,
+        "id": 34,
         "question": "What is the premium amount for",
         "options": [
             "Rs. 20/- per annum per member",
@@ -583,102 +471,214 @@
             "Rs. 10/- per annum per member Rs. 12/- per annum per member"
         ],
         "correctIndex": 3,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "previous": 33,
+        "next": 35
+    },
+    {
+        "id": 35,
+        "question": "What is the most common form of group health insurance",
+        "options": [
+            "Family policy",
+            "Individual policy",
+            "Personal policy",
+            "Group policy taken by employers covering employees"
+        ],
+        "correctIndex": 3,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "previous": 34,
+        "next": 36
+    },
+    {
+        "id": 36,
+        "question": "Which factor affects morbidity rates in health insurance",
+        "options": [
+            "Financial status",
+            "Marital status",
+            "Gender",
+            "Educational qualification"
+        ],
+        "correctIndex": 2,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "previous": 35,
+        "next": 37
+    },
+    {
+        "id": 37,
+        "question": "What is the consequence of breach or concealment of information by the insured in insurance",
+        "options": [
+            "Decrease in premium",
+            "Policy becomes void",
+            "Policy remains unaffected",
+            "Increase in premium"
+        ],
+        "correctIndex": 1,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "previous": 36,
+        "next": 38
+    },
+    {
+        "id": 38,
+        "question": "What are the different categories of risk into which the underwriter can classify a proposal",
+        "options": [
+            "All of the above",
+            "Postpone the cover for a stipulated period/ term",
+            "Accept risk at an extra premium",
+            "Accept risk at standard rates, extra premium, or decline the cover"
+        ],
+        "correctIndex": 0,
         "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
+        "previous": 37,
+        "next": 39
+    },
+    {
+        "id": 39,
+        "question": "Which of the following non-employer groups can be offered group health insurance",
+        "options": [
+            "Employer welfare associations",
+            "All of the above",
+            "Customers of a particular business where insurance is offered as an add- on benefit",
+            "Borrowers of a bank"
+        ],
+        "correctIndex": 1,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
+        "previous": 38,
+        "next": 40
+    },
+    {
+        "id": 40,
+        "question": "What is the main cover under",
+        "options": [
+            "Insurance policies",
+            "Health cover Vehicle insurance",
+            "Overseas Travel",
+            "Life cover Home insurance"
+        ],
+        "correctIndex": 3,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
+        "previous": 39,
+        "next": 41
+    },
+    {
+        "id": 41,
+        "question": "Which risk group does a person working in underground mines belong to",
+        "options": [
+            "IIRisk group",
+            "IRisk group",
+            "Risk group",
+            "IIINone of the above"
+        ],
+        "correctIndex": 0,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
+        "previous": 40,
+        "next": 42
+    },
+    {
+        "id": 42,
+        "question": "What is the true test of an insurer's performance in insurance?",
+        "options": [
+            "Location of Company office premises",
+            "The claims paying ability of the insurance company",
+            "The number of employees the insurance company has",
+            "The colour of the insurance company's logo"
+        ],
+        "correctIndex": 1,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 41,
         "next": 43
     },
     {
         "id": 43,
-        "question": "What is the most common form of group health insurance",
+        "question": "What happens from the time a health claim is made known to the insurer/TPA to the time the payment is made as per the policy terms?",
         "options": [
-            "Family policy",
-            "Individual policy",
-            "Group policy taken by employers covering employees",
-            "Personal policy"
+            "The claim goes through a set of well- defined steps",
+            "The claim is rejected immediately",
+            "The payment is made without any verification",
+            "The insurer/TPA ignores the claim"
         ],
-        "correctIndex": 2,
+        "correctIndex": 0,
         "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 42,
         "next": 44
     },
     {
         "id": 44,
-        "question": "Which factor affects morbidity rates in health insurance",
+        "question": "How is claim intimation to Insurer / TPA possible according to the statement?",
         "options": [
-            "Gender",
-            "Financial status",
-            "Marital status",
-            "Educational qualification"
+            "Only Through telegrams",
+            "Apps/ call centres/ internet/ e-mail",
+            "Only Through postal mail",
+            "Only Through fax Through Mobile"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 1,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 43,
         "next": 45
     },
     {
         "id": 45,
-        "question": "Insurers charge lower premiums for which of the following risk types",
+        "question": "What action is taken by the company in case the intimation is for a planned surgery under the Cash- less scheme?",
         "options": [
-            "Declined risks",
-            "Substandard risks",
-            "Standard risks",
-            "Preferred risks"
+            "The claim is directly processed",
+            "The hospital is contacted for more information",
+            "Pre-authorization of likely expenditure is given to the hospital",
+            "The claim is rejected"
         ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": 44,
         "next": 46
     },
     {
         "id": 46,
-        "question": "Before issuing a policy, the specific consent of the policyholder for any underwriting loading charged over and above the premium must be obtained. This regulation is for the benefit of",
+        "question": "Which of the following alternative modes of treatment may be covered by health insurance policies, but may have sub-limits?",
         "options": [
-            "The insurance company",
-            "The regulator",
-            "The policyholder",
-            "The insurance agent"
+            "Siddha",
+            "Unani",
+            "All of the above",
+            "Homeopathy"
         ],
         "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 45,
         "next": 47
     },
     {
         "id": 47,
-        "question": "What is the consequence of breach or concealment of information by the insured in insurance",
+        "question": "What has been standardized under IRDAI Health Insurance Standardization Guidelines?",
         "options": [
-            "Increase in premium",
-            "Policy becomes void",
-            "Policy remains unaffected",
-            "Decrease in premium"
+            "Balance sum insured available under the policy for the member after taking into account any claim made already",
+            "Sum insured available for the member under the policy",
+            "Non-payable items in health insurance",
+            "Deductible amount"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 46,
         "next": 48
     },
     {
         "id": 48,
-        "question": "What are the different categories of risk into which the underwriter can classify a proposal",
+        "question": "What are some examples of frauds committed in health insurance?",
         "options": [
-            "Accept risk at an extra premium",
+            "Fabrication of documents",
             "All of the above",
-            "Postpone the cover for a stipulated period/ term",
-            "Accept risk at standard rates, extra premium, or decline the cover"
+            "Inflation of expenses",
+            "Impersonation"
         ],
         "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 47,
         "next": 49
     },
     {
         "id": 49,
-        "question": "In which cities are the premiums for certain products higher due to higher claims cost",
+        "question": "What options are available for customers if their claim is denied?",
         "options": [
-            "Tourist destinations",
-            "Small towns and villages",
-            "Industrial hubs",
-            "Metros and 'A Class' cities"
+            "Insurance",
+            "IRDAIThe Consumer",
+            "Commissions",
+            "Ombudsman All of the above"
         ],
         "correctIndex": 3,
         "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
@@ -687,324 +687,170 @@
     },
     {
         "id": 50,
-        "question": "Which of the following non-employer groups can be offered group health insurance",
+        "question": "Who takes the decision on whether the cashless authorization could be provided or not?",
         "options": [
-            "Borrowers of a bank",
-            "Customers of a particular business where insurance is offered as an add- on benefit",
-            "All of the above",
-            "Employer welfare associations"
+            "The hospital",
+            "The patient",
+            "TPAThe insurer",
+            "The"
         ],
-        "correctIndex": 2,
+        "correctIndex": 3,
         "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 49,
         "next": 51
     },
     {
         "id": 51,
-        "question": "What is the main cover under",
+        "question": "What does the TPA do after studying the information provided in the cashless authorization form?",
         "options": [
-            "Insurance policies",
-            "Overseas Travel",
-            "Life cover Home insurance",
-            "Health cover Vehicle insurance"
+            "Rejects the cashless authorization immediately",
+            "Approves the cashless authorization without delay",
+            "Takes a decision on whether cashless authorization could be provided and, if so, for how much amount",
+            "None of the above"
         ],
         "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 50,
         "next": 52
     },
     {
         "id": 52,
-        "question": "Which risk group does a person working in underground mines belong to",
+        "question": "What is the most important document required to process a health insurance claim?",
         "options": [
-            "IIRisk group",
-            "Risk group",
-            "IRisk group",
-            "IIINone of the above"
+            "Receipt for payment",
+            "Investigation report",
+            "Consolidated and detailed bills",
+            "Discharge summary"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 51,
         "next": 53
     },
     {
         "id": 53,
-        "question": "What is the true test of an insurer's performance in insurance?",
+        "question": "What is the purpose of investigation reports in health insurance claims?",
         "options": [
-            "Location of Company office premises",
-            "The claims paying ability of the insurance company",
-            "The colour of the insurance company's logo",
-            "The number of employees the insurance company has"
+            "To provide a break-up of the bills",
+            "To provide a summary of the patient's condition",
+            "To assist in comparing the diagnosis and treatment",
+            "To verify the identity of the patient"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 52,
         "next": 54
     },
     {
         "id": 54,
-        "question": "What happens from the time a health claim is made known to the insurer/TPA to the time the payment is made as per the policy terms?",
+        "question": "Which document may be required for accident claims?",
         "options": [
-            "The claim goes through a set of well- defined steps",
-            "The claim is rejected immediately",
-            "The insurer/TPA ignores the claim",
-            "The payment is made without any verification"
+            "Medico-legal certificate",
+            "FIR or",
+            "Consolidated and detailed bills",
+            "Identity proof Dialysis/Chemotherapy/Physiotherap y charts"
         ],
         "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 53,
         "next": 55
     },
     {
         "id": 55,
-        "question": "How is claim intimation to Insurer / TPA possible according to the statement?",
+        "question": "What document does the TPA issue to the hospital for cashless treatment?",
         "options": [
-            "Only Through postal mail",
-            "Only Through fax Through Mobile",
-            "Only Through telegrams",
-            "Apps/ call centres/ internet/ e-mail"
+            "Pre-authorization or",
+            "Prescription for medication",
+            "Letter of Guarantee",
+            "Medical report Discharge summary"
         ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 54,
         "next": 56
     },
     {
         "id": 56,
-        "question": "What action is taken by the company in case the intimation is for a planned surgery under the Cash- less scheme?",
+        "question": "What documents are required for name and address verification for AML (Anti-money laundering) purposes?",
         "options": [
-            "The claim is directly processed",
-            "Pre-authorization of likely expenditure is given to the hospital",
-            "The hospital is contacted for more information",
-            "The claim is rejected"
+            "PAN card and telephone bill",
+            "Aadhar card and credit card statement",
+            "Birth certificate and rental agreement",
+            "Passport and bank statement"
         ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 0,
+        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 55,
         "next": 57
     },
     {
         "id": 57,
-        "question": "Which of the following alternative modes of treatment may be covered by health insurance policies, but may have sub-limits?",
+        "question": "Which of the following is NOT a service provided by assistance companies during overseas travel insurance claims?",
         "options": [
-            "Homeopathy",
-            "Siddha",
-            "Unani",
-            "All of the above"
+            "Delivery of Essential",
+            "Medical service provider referrals",
+            "Medicines Rental car booking",
+            "Interpreter Referral"
         ],
-        "correctIndex": 3,
+        "correctIndex": 2,
         "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
         "previous": 56,
         "next": 58
     },
     {
         "id": 58,
-        "question": "What has been standardized under IRDAI Health Insurance Standardization Guidelines?",
+        "question": "Which of the following steps is necessary for hospitalization in case of a travel insurance claim?",
         "options": [
-            "Sum insured available for the member under the policy",
-            "Non-payable items in health insurance",
-            "Balance sum insured available under the policy for the member after taking into account any claim made already",
-            "Deductible amount"
+            "Visit any hospital of choice",
+            "Intimate the call centre and proceed to a specified hospital with a valid travel insurance policy",
+            "None of the above",
+            "Submit a written request to the insurance company"
         ],
         "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
+        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
         "previous": 57,
         "next": 59
     },
     {
         "id": 59,
-        "question": "What are some examples of frauds committed in health insurance?",
+        "question": "Which type of claim payment is made in foreign currency?",
         "options": [
-            "Fabrication of documents",
-            "Inflation of expenses",
-            "All of the above",
-            "Impersonation"
+            "Both cashless and reimbursement claims",
+            "Reimbursement claims",
+            "None of the above",
+            "Cashless claims"
         ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 3,
+        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
         "previous": 58,
         "next": 60
     },
     {
         "id": 60,
-        "question": "What options are available for customers if their claim is denied?",
+        "question": "What currency is used for payments for admissible claims in reimbursement claims for overseas travel insurance?",
         "options": [
-            "Ombudsman All of the above",
-            "IRDAIThe Consumer",
-            "Commissions",
-            "Insurance"
+            "Dollar (USD) Euro (EUR)",
+            "British Pound (GBP)",
+            "Indian Rupee (INR)",
+            "United States"
         ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
+        "correctIndex": 2,
+        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
         "previous": 59,
         "next": 61
     },
     {
         "id": 61,
-        "question": "Who takes the decision on whether the cashless authorization could be provided or not?",
-        "options": [
-            "The patient",
-            "The hospital",
-            "TPAThe insurer",
-            "The"
-        ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
-        "previous": 60,
-        "next": 62
-    },
-    {
-        "id": 62,
-        "question": "What does the TPA do after studying the information provided in the cashless authorization form?",
-        "options": [
-            "None of the above",
-            "Takes a decision on whether cashless authorization could be provided and, if so, for how much amount",
-            "Approves the cashless authorization without delay",
-            "Rejects the cashless authorization immediately"
-        ],
-        "correctIndex": 1,
-        "explanation": "Correct Answer: B. Source: Life-Question Bank_28032023.pdf",
-        "previous": 61,
-        "next": 63
-    },
-    {
-        "id": 63,
-        "question": "What is the most important document required to process a health insurance claim?",
-        "options": [
-            "Receipt for payment",
-            "Investigation report",
-            "Discharge summary",
-            "Consolidated and detailed bills"
-        ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
-        "previous": 62,
-        "next": 64
-    },
-    {
-        "id": 64,
-        "question": "What is the purpose of investigation reports in health insurance claims?",
-        "options": [
-            "To assist in comparing the diagnosis and treatment",
-            "To provide a summary of the patient's condition",
-            "To verify the identity of the patient",
-            "To provide a break-up of the bills"
-        ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
-        "previous": 63,
-        "next": 65
-    },
-    {
-        "id": 65,
-        "question": "Which document may be required for accident claims?",
-        "options": [
-            "FIR or",
-            "Consolidated and detailed bills",
-            "Medico-legal certificate",
-            "Identity proof Dialysis/Chemotherapy/Physiotherap y charts"
-        ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
-        "previous": 64,
-        "next": 66
-    },
-    {
-        "id": 66,
-        "question": "What document does the TPA issue to the hospital for cashless treatment?",
-        "options": [
-            "Letter of Guarantee",
-            "Pre-authorization or",
-            "Medical report Discharge summary",
-            "Prescription for medication"
-        ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
-        "previous": 65,
-        "next": 67
-    },
-    {
-        "id": 67,
-        "question": "What documents are required for name and address verification for AML (Anti-money laundering) purposes?",
-        "options": [
-            "PAN card and telephone bill",
-            "Birth certificate and rental agreement",
-            "Passport and bank statement",
-            "Aadhar card and credit card statement"
-        ],
-        "correctIndex": 0,
-        "explanation": "Correct Answer: A. Source: Life-Question Bank_28032023.pdf",
-        "previous": 66,
-        "next": 68
-    },
-    {
-        "id": 68,
-        "question": "Which of the following is NOT a service provided by assistance companies during overseas travel insurance claims?",
-        "options": [
-            "Medical service provider referrals",
-            "Interpreter Referral",
-            "Medicines Rental car booking",
-            "Delivery of Essential"
-        ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
-        "previous": 67,
-        "next": 69
-    },
-    {
-        "id": 69,
-        "question": "Which of the following steps is necessary for hospitalization in case of a travel insurance claim?",
-        "options": [
-            "None of the above",
-            "Submit a written request to the insurance company",
-            "Intimate the call centre and proceed to a specified hospital with a valid travel insurance policy",
-            "Visit any hospital of choice"
-        ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
-        "previous": 68,
-        "next": 70
-    },
-    {
-        "id": 70,
-        "question": "Which type of claim payment is made in foreign currency?",
-        "options": [
-            "Reimbursement claims",
-            "None of the above",
-            "Both cashless and reimbursement claims",
-            "Cashless claims"
-        ],
-        "correctIndex": 3,
-        "explanation": "Correct Answer: D. Source: Life-Question Bank_28032023.pdf",
-        "previous": 69,
-        "next": 71
-    },
-    {
-        "id": 71,
-        "question": "What currency is used for payments for admissible claims in reimbursement claims for overseas travel insurance?",
-        "options": [
-            "United States",
-            "Dollar (USD) Euro (EUR)",
-            "Indian Rupee (INR)",
-            "British Pound (GBP)"
-        ],
-        "correctIndex": 2,
-        "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
-        "previous": 70,
-        "next": 72
-    },
-    {
-        "id": 72,
         "question": "Which document is required to certify the disability of an insured individual?",
         "options": [
-            "Driving license",
-            "Passport",
             "Permanent disability certificate from a civil surgeon or equivalent competent doctors",
-            "Birth certificate"
+            "Birth certificate",
+            "Driving license",
+            "Passport"
         ],
-        "correctIndex": 2,
+        "correctIndex": 0,
         "explanation": "Correct Answer: C. Source: Life-Question Bank_28032023.pdf",
-        "previous": 71,
+        "previous": 60,
         "next": null
     }
 ]

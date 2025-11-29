@@ -56,6 +56,7 @@ function parseQuestions(text, source) {
     if (source.includes('Life-Question Bank')) {
         const lines = text.split('\n').map(l => l.trim()).filter(l => l);
         let i = 0;
+        let idCounter = 1;
         while (i < lines.length) {
             // Look for a number (ID)
             if (/^\d+$/.test(lines[i])) {
@@ -160,15 +161,31 @@ function parseQuestions(text, source) {
                             }
                         }
 
-                        // Debug logging removed
+                        // Validation for inferred questions (no '?' at end)
+                        let isValidQuestion = true;
+                        if (!qText.trim().endsWith('?')) {
+                            const questionWords = ['What', 'Which', 'Who', 'Where', 'When', 'Why', 'How', 'Is', 'Are', 'Do', 'Does', 'Can', 'Could', 'Should', 'Would'];
+                            const startsWithQuestionWord = questionWords.some(w => qText.trim().startsWith(w));
+                            const hasUnderscore = qText.includes('_');
 
-                        if (qText && opts.length === 4) {
+                            if (!startsWithQuestionWord && !hasUnderscore) {
+                                isValidQuestion = false;
+                                console.log(`Skipping invalid inferred question: "${qText}"`);
+                            }
+                        }
+
+                        if (qText.length < 15) {
+                            isValidQuestion = false;
+                            console.log(`Skipping too short question: "${qText}"`);
+                        }
+
+                        if (isValidQuestion && qText && opts.length === 4) {
                             questions.push({
-                                id: id,
+                                id: idCounter++,
                                 question: qText,
                                 options: opts,
                                 correctIndex: correctIndex,
-                                explanation: `Source: ${path.basename(source)}`
+                                explanation: `Correct Answer: ${String.fromCharCode(65 + correctIndex)}. Source: ${path.basename(source)}`
                             });
                         }
                     }
