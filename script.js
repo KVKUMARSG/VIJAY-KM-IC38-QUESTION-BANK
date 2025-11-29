@@ -74,14 +74,27 @@ document.addEventListener('DOMContentLoaded', async () => {
 });
 
 // Load Data
+// Load Data
 async function loadQuestions() {
     try {
-        const response = await fetch('data/questions.json');
+        elements.quiz.questionText.textContent = "Fetching question bank...";
+        // Add timestamp to prevent caching
+        const response = await fetch(`data/questions.json?v=${new Date().getTime()}`);
+
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
         state.allQuestions = await response.json();
         console.log(`Loaded ${state.allQuestions.length} questions.`);
+
+        if (state.allQuestions.length === 0) {
+            elements.quiz.questionText.textContent = "No questions found in the database.";
+            return;
+        }
     } catch (error) {
         console.error('Failed to load questions:', error);
-        elements.quiz.questionText.textContent = "Error loading questions. Please try refreshing.";
+        elements.quiz.questionText.innerHTML = `Error loading questions.<br><small>${error.message}</small><br><button onclick="location.reload()" class="secondary-btn" style="margin-top:10px">Retry</button>`;
     }
 }
 
