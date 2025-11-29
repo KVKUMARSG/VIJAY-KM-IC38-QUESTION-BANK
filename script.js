@@ -66,6 +66,10 @@ document.addEventListener('DOMContentLoaded', async () => {
     // Start with Set 1 if available
     if (state.allQuestions.length > 0) {
         selectSet(state.currentSetIndex);
+        // Force display of first question if not already done by selectSet
+        if (state.questions.length > 0) {
+            displayQuestion();
+        }
     }
 });
 
