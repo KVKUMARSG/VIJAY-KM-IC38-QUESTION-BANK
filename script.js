@@ -484,3 +484,32 @@ function resetProgress() {
         alert('Progress reset.');
     }
 }
+
+// History Logic
+function renderHistory() {
+    elements.history.list.innerHTML = '';
+    const answers = Object.entries(state.userAnswers).sort((a, b) => new Date(b[1].timestamp) - new Date(a[1].timestamp));
+
+    if (answers.length === 0) {
+        elements.history.list.innerHTML = '<div class="empty-state" style="text-align:center; padding:2rem; color:#94a3b8;">No history yet.</div>';
+        return;
+    }
+
+    answers.forEach(([qId, data]) => {
+        const question = state.allQuestions.find(q => q.id == qId);
+        if (!question) return;
+
+        const item = document.createElement('div');
+        item.className = 'history-item';
+        item.innerHTML = `
+            <div>
+                <div style="font-weight:600; margin-bottom:4px;">Q${qId}: ${question.question.substring(0, 50)}...</div>
+                <div style="font-size:0.85rem; color:#94a3b8;">${new Date(data.timestamp).toLocaleDateString()}</div>
+            </div>
+            <div class="h-status ${data.isCorrect ? 'correct' : 'wrong'}">
+                ${data.isCorrect ? 'Correct' : 'Wrong'}
+            </div>
+        `;
+        elements.history.list.appendChild(item);
+    });
+}
