@@ -41,6 +41,7 @@ const elements = {
         progress: document.getElementById('quiz-progress'),
         currentNum: document.getElementById('q-current'),
         totalNum: document.getElementById('q-total'),
+        categoryBadge: document.querySelector('.q-badge'),
         questionText: document.getElementById('question-text'),
         optionsContainer: document.getElementById('options-container'),
         explanationContainer: document.getElementById('explanation-container'),
@@ -295,6 +296,10 @@ function loadQuestion(index) {
     elements.quiz.currentNum.textContent = index + 1;
     elements.quiz.totalNum.textContent = state.questions.length;
     elements.quiz.questionText.textContent = question.question;
+    // Set category badge (if element exists)
+    if (elements.quiz.categoryBadge) {
+        elements.quiz.categoryBadge.textContent = question.category || 'General';
+    }
     elements.quiz.progress.style.width = `${((index + 1) / state.questions.length) * 100}%`;
 
     // Navigation Buttons State
