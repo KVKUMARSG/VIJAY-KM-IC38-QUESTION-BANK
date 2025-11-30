@@ -374,7 +374,7 @@ function handleAnswer(selectedIndex, question) {
 
 function showExplanation(question) {
     elements.quiz.explanationContainer.classList.remove('hidden');
-    elements.quiz.explanationText.textContent = question.explanation || "No explanation available.";
+    elements.quiz.explanationText.innerHTML = question.explanation || "No explanation available.";
 
     // Destroy previous chart if exists
     if (explanationChart) {
