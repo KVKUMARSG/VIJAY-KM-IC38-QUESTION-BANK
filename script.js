@@ -1,3 +1,11 @@
+console.log("Script starting...");
+
+window.onerror = function (msg, url, line, col, error) {
+    console.error("Global Error:", msg, url, line, col, error);
+    alert("Global Error: " + msg);
+    return false;
+};
+
 // State Management
 const state = {
     allQuestions: [], // Store all loaded questions
