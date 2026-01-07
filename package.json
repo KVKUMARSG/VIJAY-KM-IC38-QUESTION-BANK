@@ -1,0 +1,27 @@
+{
+    "name": "ic38-study-site",
+    "version": "1.0.0",
+    "description": "IRDA IC-38 Exam Preparation Website",
+    "main": "index.js",
+    "scripts": {
+        "start": "npx serve",
+        "fetch-questions": "node src/fetch_questions.js",
+        "embed-questions": "node src/embed_questions.js",
+        "build-banks": "node src/bank_manager.js",
+        "process-excel": "node src/process_excel.js",
+        "clean-assets": "node src/clean_assets.js"
+    },
+    "dependencies": {
+        "@xenova/transformers": "^2.14.0",
+        "axios": "^1.13.2",
+        "cheerio": "^1.0.0-rc.12",
+        "compute-cosine-similarity": "^1.0.0",
+        "mammoth": "^1.11.0",
+        "node-fetch": "^3.3.2",
+        "pdf-parse": "^1.1.4",
+        "xlsx": "^0.18.5"
+    },
+    "devDependencies": {
+        "serve": "^14.2.1"
+    }
+}

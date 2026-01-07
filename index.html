@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VIJAY IC-38 Exam Prep | Premium Study Mode</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css?v=1.2">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <div class="app-container">
+        <header class="glass-header">
+            <div class="logo">
+                <i class="fa-solid fa-shield-halved"></i>
+                <span>VIJAY IC-38 Master</span>
+            </div>
+            <nav>
+                <button id="btn-quiz" class="nav-btn active"><i class="fa-solid fa-book-open"></i> Quiz</button>
+                <button id="btn-dashboard" class="nav-btn"><i class="fa-solid fa-chart-pie"></i> Progress</button>
+                <button id="btn-history" class="nav-btn"><i class="fa-solid fa-clock-rotate-left"></i> History</button>
+            </nav>
+        </header>
+
+        <main>
+            <!-- Quiz View -->
+            <section id="quiz-view" class="view active">
+                <div class="progress-bar-container">
+                    <div class="progress-bar" id="quiz-progress"></div>
+                </div>
+
+                <div class="question-card glass-card">
+                    <div class="question-header">
+                        <span class="q-number">Question <span id="q-current">1</span>/<span
+                                id="q-total">--</span></span>
+                        <span class="q-badge">IRDA Exam</span>
+                    </div>
+                    <h2 id="question-text">Loading question...</h2>
+
+                    <div class="options-grid" id="options-container">
+                        <!-- Options will be injected here -->
+                    </div>
+
+                    <!-- Explanation Section -->
+                    <div id="explanation-container" class="explanation-box hidden">
+                        <div class="exp-header">
+                            <i class="fa-solid fa-lightbulb"></i> Explanation
+                        </div>
+                        <p id="explanation-text"></p>
+
+                        <!-- Visual Aid Container -->
+                        <div id="visual-aid-container" class="visual-aid">
+                            <canvas id="explanation-chart" style="display:none;"></canvas>
+                        </div>
+
+                        <a id="btn-google-search" href="#" target="_blank" class="google-search-btn">
+                            <i class="fa-brands fa-google"></i> Search for more insights
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Navigation Controls -->
+                <div class="quiz-navigation">
+                    <button id="btn-prev" class="nav-control-btn" disabled>
+                        <i class="fa-solid fa-arrow-left"></i> Previous
+                    </button>
+                    <button id="btn-next" class="nav-control-btn">
+                        Next Question <i class="fa-solid fa-arrow-right"></i>
+                    </button>
+                </div>
+            </section>
+
+            <!-- Dashboard View -->
+            <section id="dashboard-view" class="view hidden">
+                <div class="dashboard-grid">
+                    <div class="stat-card glass-card">
+                        <div class="icon-box blue"><i class="fa-solid fa-list-check"></i></div>
+                        <div class="stat-info">
+                            <h3>Attempted</h3>
+                            <p id="stat-total">0</p>
+                        </div>
+                    </div>
+                    <div class="stat-card glass-card">
+                        <div class="icon-box green"><i class="fa-solid fa-bullseye"></i></div>
+                        <div class="stat-info">
+                            <h3>Accuracy</h3>
+                            <p id="stat-accuracy">0%</p>
+                        </div>
+                    </div>
+                    <div class="stat-card glass-card">
+                        <div class="icon-box purple"><i class="fa-solid fa-fire"></i></div>
+                        <div class="stat-info">
+                            <h3>Correct</h3>
+                            <p id="stat-correct">0</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="charts-container glass-card">
+                    <h3>Performance Analysis</h3>
+                    <canvas id="performance-chart"></canvas>
+                </div>
+
+                <div class="sets-container glass-card">
+                    <h3>Select Question Set</h3>
+                    <div class="sets-grid" id="sets-grid">
+                        <!-- Set buttons injected here -->
+                    </div>
+                </div>
+
+                <div class="reset-zone">
+                    <button id="btn-reset" class="danger-btn"><i class="fa-solid fa-trash"></i> Reset Progress</button>
+                </div>
+            </section>
+
+            <!-- History View -->
+            <section id="history-view" class="view hidden">
+                <div class="glass-card">
+                    <h3>Recent Activity</h3>
+                    <div class="history-list" id="history-list">
+                        <!-- History items injected here -->
+                        <div class="empty-state">No history yet. Start studying!</div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="script.js?v=1.5"></script>
+</body>
+
+</html>
