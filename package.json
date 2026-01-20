@@ -1,7 +1,7 @@
 {
-    "name": "ir38-study-site",
+    "name": "ic38-study-site",
     "version": "1.0.0",
-    "description": "IRDA IR-38 Exam Preparation Website",
+    "description": "IRDA IC-38 Exam Preparation Website",
     "main": "index.js",
     "scripts": {
         "start": "npx serve",

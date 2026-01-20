@@ -194,7 +194,7 @@ function selectSet(index) {
     state.questions = state.allQuestions.slice(start, end);
 
     // Restore progress for this set
-    const setProgress = JSON.parse(localStorage.getItem('ir38_set_progress') || '{}');
+    const setProgress = JSON.parse(localStorage.getItem('ic38_set_progress') || '{}');
     state.currentQuestionIndex = setProgress[index] || 0;
 
     console.log(`Selected Set ${index + 1}. Questions: ${state.questions.length}. Resuming at Q${state.currentQuestionIndex + 1}`);
@@ -211,9 +211,9 @@ function selectSet(index) {
 
 // Persistence
 function loadProgress() {
-    const savedProgress = localStorage.getItem('ir38_progress');
-    const savedAnswers = localStorage.getItem('ir38_answers');
-    const savedSet = localStorage.getItem('ir38_current_set');
+    const savedProgress = localStorage.getItem('ic38_progress');
+    const savedAnswers = localStorage.getItem('ic38_answers');
+    const savedSet = localStorage.getItem('ic38_current_set');
 
     if (savedProgress) {
         state.stats = JSON.parse(savedProgress);
@@ -230,14 +230,14 @@ function loadProgress() {
 }
 
 function saveProgress() {
-    localStorage.setItem('ir38_progress', JSON.stringify(state.stats));
-    localStorage.setItem('ir38_answers', JSON.stringify(state.userAnswers));
-    localStorage.setItem('ir38_current_set', state.currentSetIndex);
+    localStorage.setItem('ic38_progress', JSON.stringify(state.stats));
+    localStorage.setItem('ic38_answers', JSON.stringify(state.userAnswers));
+    localStorage.setItem('ic38_current_set', state.currentSetIndex);
 
     // Save current question index for the current set
-    const setProgress = JSON.parse(localStorage.getItem('ir38_set_progress') || '{}');
+    const setProgress = JSON.parse(localStorage.getItem('ic38_set_progress') || '{}');
     setProgress[state.currentSetIndex] = state.currentQuestionIndex;
-    localStorage.setItem('ir38_set_progress', JSON.stringify(setProgress));
+    localStorage.setItem('ic38_set_progress', JSON.stringify(setProgress));
 }
 
 // Navigation
@@ -470,10 +470,10 @@ function renderPerformanceChart() {
 
 function resetProgress() {
     if (confirm('Are you sure you want to reset all progress?')) {
-        localStorage.removeItem('ir38_progress');
-        localStorage.removeItem('ir38_answers');
-        localStorage.removeItem('ir38_current_set');
-        localStorage.removeItem('ir38_set_progress');
+        localStorage.removeItem('ic38_progress');
+        localStorage.removeItem('ic38_answers');
+        localStorage.removeItem('ic38_current_set');
+        localStorage.removeItem('ic38_set_progress');
         state.stats = {
             totalAttempted: 0,
             correctCount: 0,
